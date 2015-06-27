@@ -1,0 +1,96 @@
+C:\Users\sara\Documents\Visual Studio 2012\Projects\MedilaSystem\MedilaSystemService\bin\Debug\MedilaSystemService.dll
+C:\Users\sara\Documents\Visual Studio 2012\Projects\MedilaSystem\MedilaSystemService\bin\Debug\MedilaSystemService.pdb
+C:\Users\sara\Documents\Visual Studio 2012\Projects\MedilaSystem\MedilaSystemService\bin\Debug\DBMedilaRepository.dll
+C:\Users\sara\Documents\Visual Studio 2012\Projects\MedilaSystem\MedilaSystemService\bin\Debug\MedilaSystemEntities.dll
+C:\Users\sara\Documents\Visual Studio 2012\Projects\MedilaSystem\MedilaSystemService\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\sara\Documents\Visual Studio 2012\Projects\MedilaSystem\MedilaSystemService\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\sara\Documents\Visual Studio 2012\Projects\MedilaSystem\MedilaSystemService\bin\Debug\EntityFramework.dll
+C:\Users\sara\Documents\Visual Studio 2012\Projects\MedilaSystem\MedilaSystemService\bin\Debug\DBMedilaRepository.pdb
+C:\Users\sara\Documents\Visual Studio 2012\Projects\MedilaSystem\MedilaSystemService\bin\Debug\MedilaSystemEntities.pdb
+C:\Users\sara\Documents\Visual Studio 2012\Projects\MedilaSystem\MedilaSystemService\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\sara\Documents\Visual Studio 2012\Projects\MedilaSystem\MedilaSystemService\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\sara\Documents\Visual Studio 2012\Projects\MedilaSystem\MedilaSystemService\bin\Debug\EntityFramework.xml
+C:\Users\sara\Documents\Visual Studio 2012\Projects\MedilaSystem\MedilaSystemService\bin\Debug\es\EntityFramework.resources.dll
+C:\Users\sara\Documents\Visual Studio 2012\Projects\MedilaSystem\MedilaSystemService\obj\Debug\MedilaSystemService.csprojResolveAssemblyReference.cache
+C:\Users\sara\Documents\Visual Studio 2012\Projects\MedilaSystem\MedilaSystemService\obj\Debug\MedilaSystemService.dll
+C:\Users\sara\Documents\Visual Studio 2012\Projects\MedilaSystem\MedilaSystemService\obj\Debug\MedilaSystemService.pdb
+C:\Users\NOE B\Desktop\MedilaSystem\MedilaSystemService\bin\Debug\MedilaSystemService.dll
+C:\Users\NOE B\Desktop\MedilaSystem\MedilaSystemService\bin\Debug\MedilaSystemService.pdb
+C:\Users\NOE B\Desktop\MedilaSystem\MedilaSystemService\bin\Debug\DBMedilaRepository.dll
+C:\Users\NOE B\Desktop\MedilaSystem\MedilaSystemService\bin\Debug\MedilaSystemEntities.dll
+C:\Users\NOE B\Desktop\MedilaSystem\MedilaSystemService\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\NOE B\Desktop\MedilaSystem\MedilaSystemService\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\NOE B\Desktop\MedilaSystem\MedilaSystemService\bin\Debug\EntityFramework.dll
+C:\Users\NOE B\Desktop\MedilaSystem\MedilaSystemService\bin\Debug\DBMedilaRepository.pdb
+C:\Users\NOE B\Desktop\MedilaSystem\MedilaSystemService\bin\Debug\MedilaSystemEntities.pdb
+C:\Users\NOE B\Desktop\MedilaSystem\MedilaSystemService\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\NOE B\Desktop\MedilaSystem\MedilaSystemService\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\NOE B\Desktop\MedilaSystem\MedilaSystemService\bin\Debug\EntityFramework.xml
+C:\Users\NOE B\Desktop\MedilaSystem\MedilaSystemService\bin\Debug\es\EntityFramework.resources.dll
+C:\Users\NOE B\Desktop\MedilaSystem\MedilaSystemService\obj\Debug\MedilaSystemService.csprojResolveAssemblyReference.cache
+C:\Users\NOE B\Desktop\MedilaSystem\MedilaSystemService\obj\Debug\MedilaSystemService.dll
+C:\Users\NOE B\Desktop\MedilaSystem\MedilaSystemService\obj\Debug\MedilaSystemService.pdb
+F:\MedilaSystem\MedilaSystemService\bin\Debug\MedilaSystemService.dll
+F:\MedilaSystem\MedilaSystemService\bin\Debug\MedilaSystemService.pdb
+F:\MedilaSystem\MedilaSystemService\bin\Debug\DBMedilaRepository.dll
+F:\MedilaSystem\MedilaSystemService\bin\Debug\MedilaSystemEntities.dll
+F:\MedilaSystem\MedilaSystemService\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+F:\MedilaSystem\MedilaSystemService\bin\Debug\Microsoft.Practices.Unity.dll
+F:\MedilaSystem\MedilaSystemService\bin\Debug\EntityFramework.dll
+F:\MedilaSystem\MedilaSystemService\bin\Debug\DBMedilaRepository.pdb
+F:\MedilaSystem\MedilaSystemService\bin\Debug\MedilaSystemEntities.pdb
+F:\MedilaSystem\MedilaSystemService\bin\Debug\Microsoft.Practices.Unity.xml
+F:\MedilaSystem\MedilaSystemService\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+F:\MedilaSystem\MedilaSystemService\bin\Debug\EntityFramework.xml
+F:\MedilaSystem\MedilaSystemService\bin\Debug\es\EntityFramework.resources.dll
+F:\MedilaSystem\MedilaSystemService\obj\Debug\MedilaSystemService.csprojResolveAssemblyReference.cache
+F:\MedilaSystem\MedilaSystemService\obj\Debug\MedilaSystemService.dll
+F:\MedilaSystem\MedilaSystemService\obj\Debug\MedilaSystemService.pdb
+D:\Ciclo VIII -2014\Diars\Proyecto MelidaBotic\Programación_Milagros\MedilaSystem\MedilaSystemService\bin\Debug\MedilaSystemService.dll
+D:\Ciclo VIII -2014\Diars\Proyecto MelidaBotic\Programación_Milagros\MedilaSystem\MedilaSystemService\bin\Debug\MedilaSystemService.pdb
+D:\Ciclo VIII -2014\Diars\Proyecto MelidaBotic\Programación_Milagros\MedilaSystem\MedilaSystemService\bin\Debug\DBMedilaRepository.dll
+D:\Ciclo VIII -2014\Diars\Proyecto MelidaBotic\Programación_Milagros\MedilaSystem\MedilaSystemService\bin\Debug\MedilaSystemEntities.dll
+D:\Ciclo VIII -2014\Diars\Proyecto MelidaBotic\Programación_Milagros\MedilaSystem\MedilaSystemService\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+D:\Ciclo VIII -2014\Diars\Proyecto MelidaBotic\Programación_Milagros\MedilaSystem\MedilaSystemService\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Ciclo VIII -2014\Diars\Proyecto MelidaBotic\Programación_Milagros\MedilaSystem\MedilaSystemService\bin\Debug\EntityFramework.dll
+D:\Ciclo VIII -2014\Diars\Proyecto MelidaBotic\Programación_Milagros\MedilaSystem\MedilaSystemService\bin\Debug\DBMedilaRepository.pdb
+D:\Ciclo VIII -2014\Diars\Proyecto MelidaBotic\Programación_Milagros\MedilaSystem\MedilaSystemService\bin\Debug\MedilaSystemEntities.pdb
+D:\Ciclo VIII -2014\Diars\Proyecto MelidaBotic\Programación_Milagros\MedilaSystem\MedilaSystemService\bin\Debug\Microsoft.Practices.Unity.xml
+D:\Ciclo VIII -2014\Diars\Proyecto MelidaBotic\Programación_Milagros\MedilaSystem\MedilaSystemService\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+D:\Ciclo VIII -2014\Diars\Proyecto MelidaBotic\Programación_Milagros\MedilaSystem\MedilaSystemService\bin\Debug\EntityFramework.xml
+D:\Ciclo VIII -2014\Diars\Proyecto MelidaBotic\Programación_Milagros\MedilaSystem\MedilaSystemService\bin\Debug\es\EntityFramework.resources.dll
+D:\Ciclo VIII -2014\Diars\Proyecto MelidaBotic\Programación_Milagros\MedilaSystem\MedilaSystemService\obj\Debug\MedilaSystemService.csprojResolveAssemblyReference.cache
+D:\Ciclo VIII -2014\Diars\Proyecto MelidaBotic\Programación_Milagros\MedilaSystem\MedilaSystemService\obj\Debug\MedilaSystemService.dll
+D:\Ciclo VIII -2014\Diars\Proyecto MelidaBotic\Programación_Milagros\MedilaSystem\MedilaSystemService\obj\Debug\MedilaSystemService.pdb
+D:\Ciclo VIII -2014\Diars\Proyecto MelidaBotic\Milagros\Programación_Milagros\MedilaSystem\MedilaSystemService\bin\Debug\MedilaSystemService.dll
+D:\Ciclo VIII -2014\Diars\Proyecto MelidaBotic\Milagros\Programación_Milagros\MedilaSystem\MedilaSystemService\bin\Debug\MedilaSystemService.pdb
+D:\Ciclo VIII -2014\Diars\Proyecto MelidaBotic\Milagros\Programación_Milagros\MedilaSystem\MedilaSystemService\bin\Debug\DBMedilaRepository.dll
+D:\Ciclo VIII -2014\Diars\Proyecto MelidaBotic\Milagros\Programación_Milagros\MedilaSystem\MedilaSystemService\bin\Debug\MedilaSystemEntities.dll
+D:\Ciclo VIII -2014\Diars\Proyecto MelidaBotic\Milagros\Programación_Milagros\MedilaSystem\MedilaSystemService\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+D:\Ciclo VIII -2014\Diars\Proyecto MelidaBotic\Milagros\Programación_Milagros\MedilaSystem\MedilaSystemService\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Ciclo VIII -2014\Diars\Proyecto MelidaBotic\Milagros\Programación_Milagros\MedilaSystem\MedilaSystemService\bin\Debug\EntityFramework.dll
+D:\Ciclo VIII -2014\Diars\Proyecto MelidaBotic\Milagros\Programación_Milagros\MedilaSystem\MedilaSystemService\bin\Debug\DBMedilaRepository.pdb
+D:\Ciclo VIII -2014\Diars\Proyecto MelidaBotic\Milagros\Programación_Milagros\MedilaSystem\MedilaSystemService\bin\Debug\MedilaSystemEntities.pdb
+D:\Ciclo VIII -2014\Diars\Proyecto MelidaBotic\Milagros\Programación_Milagros\MedilaSystem\MedilaSystemService\bin\Debug\Microsoft.Practices.Unity.xml
+D:\Ciclo VIII -2014\Diars\Proyecto MelidaBotic\Milagros\Programación_Milagros\MedilaSystem\MedilaSystemService\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+D:\Ciclo VIII -2014\Diars\Proyecto MelidaBotic\Milagros\Programación_Milagros\MedilaSystem\MedilaSystemService\bin\Debug\EntityFramework.xml
+D:\Ciclo VIII -2014\Diars\Proyecto MelidaBotic\Milagros\Programación_Milagros\MedilaSystem\MedilaSystemService\bin\Debug\es\EntityFramework.resources.dll
+D:\Ciclo VIII -2014\Diars\Proyecto MelidaBotic\Milagros\Programación_Milagros\MedilaSystem\MedilaSystemService\obj\Debug\MedilaSystemService.csprojResolveAssemblyReference.cache
+D:\Ciclo VIII -2014\Diars\Proyecto MelidaBotic\Milagros\Programación_Milagros\MedilaSystem\MedilaSystemService\obj\Debug\MedilaSystemService.dll
+D:\Ciclo VIII -2014\Diars\Proyecto MelidaBotic\Milagros\Programación_Milagros\MedilaSystem\MedilaSystemService\obj\Debug\MedilaSystemService.pdb
+I:\Programación_Milagros\MedilaSystem\MedilaSystemService\bin\Debug\MedilaSystemService.dll
+I:\Programación_Milagros\MedilaSystem\MedilaSystemService\bin\Debug\MedilaSystemService.pdb
+I:\Programación_Milagros\MedilaSystem\MedilaSystemService\bin\Debug\DBMedilaRepository.dll
+I:\Programación_Milagros\MedilaSystem\MedilaSystemService\bin\Debug\MedilaSystemEntities.dll
+I:\Programación_Milagros\MedilaSystem\MedilaSystemService\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+I:\Programación_Milagros\MedilaSystem\MedilaSystemService\bin\Debug\Microsoft.Practices.Unity.dll
+I:\Programación_Milagros\MedilaSystem\MedilaSystemService\bin\Debug\EntityFramework.dll
+I:\Programación_Milagros\MedilaSystem\MedilaSystemService\bin\Debug\DBMedilaRepository.pdb
+I:\Programación_Milagros\MedilaSystem\MedilaSystemService\bin\Debug\MedilaSystemEntities.pdb
+I:\Programación_Milagros\MedilaSystem\MedilaSystemService\bin\Debug\Microsoft.Practices.Unity.xml
+I:\Programación_Milagros\MedilaSystem\MedilaSystemService\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+I:\Programación_Milagros\MedilaSystem\MedilaSystemService\bin\Debug\EntityFramework.xml
+I:\Programación_Milagros\MedilaSystem\MedilaSystemService\bin\Debug\es\EntityFramework.resources.dll
+I:\Programación_Milagros\MedilaSystem\MedilaSystemService\obj\Debug\MedilaSystemService.csprojResolveAssemblyReference.cache
+I:\Programación_Milagros\MedilaSystem\MedilaSystemService\obj\Debug\MedilaSystemService.dll
+I:\Programación_Milagros\MedilaSystem\MedilaSystemService\obj\Debug\MedilaSystemService.pdb

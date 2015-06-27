@@ -1,0 +1,64 @@
+C:\Users\sara\Documents\Visual Studio 2012\Projects\MedilaSystem\DBMelidaSistem.CreateDB\bin\Debug\DBMelidaSistem.CreateDB.exe.config
+C:\Users\sara\Documents\Visual Studio 2012\Projects\MedilaSystem\DBMelidaSistem.CreateDB\bin\Debug\DBMelidaSistem.CreateDB.exe
+C:\Users\sara\Documents\Visual Studio 2012\Projects\MedilaSystem\DBMelidaSistem.CreateDB\bin\Debug\DBMelidaSistem.CreateDB.pdb
+C:\Users\sara\Documents\Visual Studio 2012\Projects\MedilaSystem\DBMelidaSistem.CreateDB\bin\Debug\DBMedilaRepository.dll
+C:\Users\sara\Documents\Visual Studio 2012\Projects\MedilaSystem\DBMelidaSistem.CreateDB\bin\Debug\EntityFramework.dll
+C:\Users\sara\Documents\Visual Studio 2012\Projects\MedilaSystem\DBMelidaSistem.CreateDB\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sara\Documents\Visual Studio 2012\Projects\MedilaSystem\DBMelidaSistem.CreateDB\bin\Debug\MedilaSystemEntities.dll
+C:\Users\sara\Documents\Visual Studio 2012\Projects\MedilaSystem\DBMelidaSistem.CreateDB\bin\Debug\DBMedilaRepository.pdb
+C:\Users\sara\Documents\Visual Studio 2012\Projects\MedilaSystem\DBMelidaSistem.CreateDB\bin\Debug\MedilaSystemEntities.pdb
+C:\Users\sara\Documents\Visual Studio 2012\Projects\MedilaSystem\DBMelidaSistem.CreateDB\bin\Debug\EntityFramework.xml
+C:\Users\sara\Documents\Visual Studio 2012\Projects\MedilaSystem\DBMelidaSistem.CreateDB\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sara\Documents\Visual Studio 2012\Projects\MedilaSystem\DBMelidaSistem.CreateDB\bin\Debug\es\EntityFramework.resources.dll
+C:\Users\sara\Documents\Visual Studio 2012\Projects\MedilaSystem\DBMelidaSistem.CreateDB\bin\Debug\es\EntityFramework.SqlServer.resources.dll
+C:\Users\sara\Documents\Visual Studio 2012\Projects\MedilaSystem\DBMelidaSistem.CreateDB\obj\Debug\DBMelidaSistem.CreateDB.csprojResolveAssemblyReference.cache
+C:\Users\sara\Documents\Visual Studio 2012\Projects\MedilaSystem\DBMelidaSistem.CreateDB\obj\Debug\DBMelidaSistem.CreateDB.exe
+C:\Users\sara\Documents\Visual Studio 2012\Projects\MedilaSystem\DBMelidaSistem.CreateDB\obj\Debug\DBMelidaSistem.CreateDB.pdb
+C:\Users\NOE B\Desktop\MedilaSystem\DBMelidaSistem.CreateDB\bin\Debug\DBMelidaSistem.CreateDB.exe.config
+C:\Users\NOE B\Desktop\MedilaSystem\DBMelidaSistem.CreateDB\bin\Debug\DBMelidaSistem.CreateDB.exe
+C:\Users\NOE B\Desktop\MedilaSystem\DBMelidaSistem.CreateDB\bin\Debug\DBMelidaSistem.CreateDB.pdb
+C:\Users\NOE B\Desktop\MedilaSystem\DBMelidaSistem.CreateDB\bin\Debug\DBMedilaRepository.dll
+C:\Users\NOE B\Desktop\MedilaSystem\DBMelidaSistem.CreateDB\bin\Debug\EntityFramework.dll
+C:\Users\NOE B\Desktop\MedilaSystem\DBMelidaSistem.CreateDB\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\NOE B\Desktop\MedilaSystem\DBMelidaSistem.CreateDB\bin\Debug\MedilaSystemEntities.dll
+C:\Users\NOE B\Desktop\MedilaSystem\DBMelidaSistem.CreateDB\bin\Debug\DBMedilaRepository.pdb
+C:\Users\NOE B\Desktop\MedilaSystem\DBMelidaSistem.CreateDB\bin\Debug\MedilaSystemEntities.pdb
+C:\Users\NOE B\Desktop\MedilaSystem\DBMelidaSistem.CreateDB\bin\Debug\EntityFramework.xml
+C:\Users\NOE B\Desktop\MedilaSystem\DBMelidaSistem.CreateDB\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\NOE B\Desktop\MedilaSystem\DBMelidaSistem.CreateDB\bin\Debug\es\EntityFramework.resources.dll
+C:\Users\NOE B\Desktop\MedilaSystem\DBMelidaSistem.CreateDB\bin\Debug\es\EntityFramework.SqlServer.resources.dll
+C:\Users\NOE B\Desktop\MedilaSystem\DBMelidaSistem.CreateDB\obj\Debug\DBMelidaSistem.CreateDB.csprojResolveAssemblyReference.cache
+C:\Users\NOE B\Desktop\MedilaSystem\DBMelidaSistem.CreateDB\obj\Debug\DBMelidaSistem.CreateDB.exe
+C:\Users\NOE B\Desktop\MedilaSystem\DBMelidaSistem.CreateDB\obj\Debug\DBMelidaSistem.CreateDB.pdb
+D:\Ciclo VIII -2014\Diars\Proyecto MelidaBotic\Milagros\Programación_Milagros\MedilaSystem\DBMelidaSistem.CreateDB\bin\Debug\DBMelidaSistem.CreateDB.exe.config
+D:\Ciclo VIII -2014\Diars\Proyecto MelidaBotic\Milagros\Programación_Milagros\MedilaSystem\DBMelidaSistem.CreateDB\bin\Debug\DBMelidaSistem.CreateDB.exe
+D:\Ciclo VIII -2014\Diars\Proyecto MelidaBotic\Milagros\Programación_Milagros\MedilaSystem\DBMelidaSistem.CreateDB\bin\Debug\DBMelidaSistem.CreateDB.pdb
+D:\Ciclo VIII -2014\Diars\Proyecto MelidaBotic\Milagros\Programación_Milagros\MedilaSystem\DBMelidaSistem.CreateDB\bin\Debug\DBMedilaRepository.dll
+D:\Ciclo VIII -2014\Diars\Proyecto MelidaBotic\Milagros\Programación_Milagros\MedilaSystem\DBMelidaSistem.CreateDB\bin\Debug\EntityFramework.dll
+D:\Ciclo VIII -2014\Diars\Proyecto MelidaBotic\Milagros\Programación_Milagros\MedilaSystem\DBMelidaSistem.CreateDB\bin\Debug\EntityFramework.SqlServer.dll
+D:\Ciclo VIII -2014\Diars\Proyecto MelidaBotic\Milagros\Programación_Milagros\MedilaSystem\DBMelidaSistem.CreateDB\bin\Debug\MedilaSystemEntities.dll
+D:\Ciclo VIII -2014\Diars\Proyecto MelidaBotic\Milagros\Programación_Milagros\MedilaSystem\DBMelidaSistem.CreateDB\bin\Debug\DBMedilaRepository.pdb
+D:\Ciclo VIII -2014\Diars\Proyecto MelidaBotic\Milagros\Programación_Milagros\MedilaSystem\DBMelidaSistem.CreateDB\bin\Debug\MedilaSystemEntities.pdb
+D:\Ciclo VIII -2014\Diars\Proyecto MelidaBotic\Milagros\Programación_Milagros\MedilaSystem\DBMelidaSistem.CreateDB\bin\Debug\EntityFramework.xml
+D:\Ciclo VIII -2014\Diars\Proyecto MelidaBotic\Milagros\Programación_Milagros\MedilaSystem\DBMelidaSistem.CreateDB\bin\Debug\EntityFramework.SqlServer.xml
+D:\Ciclo VIII -2014\Diars\Proyecto MelidaBotic\Milagros\Programación_Milagros\MedilaSystem\DBMelidaSistem.CreateDB\bin\Debug\es\EntityFramework.resources.dll
+D:\Ciclo VIII -2014\Diars\Proyecto MelidaBotic\Milagros\Programación_Milagros\MedilaSystem\DBMelidaSistem.CreateDB\bin\Debug\es\EntityFramework.SqlServer.resources.dll
+D:\Ciclo VIII -2014\Diars\Proyecto MelidaBotic\Milagros\Programación_Milagros\MedilaSystem\DBMelidaSistem.CreateDB\obj\Debug\DBMelidaSistem.CreateDB.csprojResolveAssemblyReference.cache
+D:\Ciclo VIII -2014\Diars\Proyecto MelidaBotic\Milagros\Programación_Milagros\MedilaSystem\DBMelidaSistem.CreateDB\obj\Debug\DBMelidaSistem.CreateDB.exe
+D:\Ciclo VIII -2014\Diars\Proyecto MelidaBotic\Milagros\Programación_Milagros\MedilaSystem\DBMelidaSistem.CreateDB\obj\Debug\DBMelidaSistem.CreateDB.pdb
+I:\Programación_Milagros\MedilaSystem\DBMelidaSistem.CreateDB\bin\Debug\DBMelidaSistem.CreateDB.exe.config
+I:\Programación_Milagros\MedilaSystem\DBMelidaSistem.CreateDB\bin\Debug\DBMelidaSistem.CreateDB.exe
+I:\Programación_Milagros\MedilaSystem\DBMelidaSistem.CreateDB\bin\Debug\DBMelidaSistem.CreateDB.pdb
+I:\Programación_Milagros\MedilaSystem\DBMelidaSistem.CreateDB\bin\Debug\DBMedilaRepository.dll
+I:\Programación_Milagros\MedilaSystem\DBMelidaSistem.CreateDB\bin\Debug\EntityFramework.dll
+I:\Programación_Milagros\MedilaSystem\DBMelidaSistem.CreateDB\bin\Debug\EntityFramework.SqlServer.dll
+I:\Programación_Milagros\MedilaSystem\DBMelidaSistem.CreateDB\bin\Debug\MedilaSystemEntities.dll
+I:\Programación_Milagros\MedilaSystem\DBMelidaSistem.CreateDB\bin\Debug\DBMedilaRepository.pdb
+I:\Programación_Milagros\MedilaSystem\DBMelidaSistem.CreateDB\bin\Debug\MedilaSystemEntities.pdb
+I:\Programación_Milagros\MedilaSystem\DBMelidaSistem.CreateDB\bin\Debug\EntityFramework.xml
+I:\Programación_Milagros\MedilaSystem\DBMelidaSistem.CreateDB\bin\Debug\EntityFramework.SqlServer.xml
+I:\Programación_Milagros\MedilaSystem\DBMelidaSistem.CreateDB\bin\Debug\es\EntityFramework.resources.dll
+I:\Programación_Milagros\MedilaSystem\DBMelidaSistem.CreateDB\bin\Debug\es\EntityFramework.SqlServer.resources.dll
+I:\Programación_Milagros\MedilaSystem\DBMelidaSistem.CreateDB\obj\Debug\DBMelidaSistem.CreateDB.csprojResolveAssemblyReference.cache
+I:\Programación_Milagros\MedilaSystem\DBMelidaSistem.CreateDB\obj\Debug\DBMelidaSistem.CreateDB.exe
+I:\Programación_Milagros\MedilaSystem\DBMelidaSistem.CreateDB\obj\Debug\DBMelidaSistem.CreateDB.pdb
