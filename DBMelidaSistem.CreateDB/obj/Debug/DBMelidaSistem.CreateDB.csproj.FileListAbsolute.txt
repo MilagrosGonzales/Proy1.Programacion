@@ -62,3 +62,19 @@ I:\Programación_Milagros\MedilaSystem\DBMelidaSistem.CreateDB\bin\Debug\es\Enti
 I:\Programación_Milagros\MedilaSystem\DBMelidaSistem.CreateDB\obj\Debug\DBMelidaSistem.CreateDB.csprojResolveAssemblyReference.cache
 I:\Programación_Milagros\MedilaSystem\DBMelidaSistem.CreateDB\obj\Debug\DBMelidaSistem.CreateDB.exe
 I:\Programación_Milagros\MedilaSystem\DBMelidaSistem.CreateDB\obj\Debug\DBMelidaSistem.CreateDB.pdb
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\DBMelidaSistem.CreateDB\bin\Debug\DBMelidaSistem.CreateDB.exe.config
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\DBMelidaSistem.CreateDB\bin\Debug\DBMelidaSistem.CreateDB.exe
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\DBMelidaSistem.CreateDB\bin\Debug\DBMelidaSistem.CreateDB.pdb
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\DBMelidaSistem.CreateDB\bin\Debug\DBMedilaRepository.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\DBMelidaSistem.CreateDB\bin\Debug\EntityFramework.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\DBMelidaSistem.CreateDB\bin\Debug\EntityFramework.SqlServer.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\DBMelidaSistem.CreateDB\bin\Debug\MedilaSystemEntities.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\DBMelidaSistem.CreateDB\bin\Debug\DBMedilaRepository.pdb
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\DBMelidaSistem.CreateDB\bin\Debug\MedilaSystemEntities.pdb
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\DBMelidaSistem.CreateDB\bin\Debug\EntityFramework.xml
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\DBMelidaSistem.CreateDB\bin\Debug\EntityFramework.SqlServer.xml
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\DBMelidaSistem.CreateDB\bin\Debug\es\EntityFramework.resources.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\DBMelidaSistem.CreateDB\bin\Debug\es\EntityFramework.SqlServer.resources.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\DBMelidaSistem.CreateDB\obj\Debug\DBMelidaSistem.CreateDB.csprojResolveAssemblyReference.cache
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\DBMelidaSistem.CreateDB\obj\Debug\DBMelidaSistem.CreateDB.exe
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\DBMelidaSistem.CreateDB\obj\Debug\DBMelidaSistem.CreateDB.pdb

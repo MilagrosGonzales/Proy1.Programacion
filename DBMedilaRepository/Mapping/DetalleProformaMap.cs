@@ -14,10 +14,15 @@ namespace DBMedilaRepository.Mapping
     {
         public DetalleProformaMap()
         {
-            this.HasKey(dp => dp.item);
-            this.Property(dp => dp.item).HasDatabaseGeneratedOption(DatabaseGeneratedOption.Identity);
-            this.Property(dp => dp.Cantidad).IsRequired();
-            this.Property(dp => dp.Precio).HasPrecision(18,2).IsRequired();
+            //key
+            this.HasKey(it => new { it.ProformaId, it.ProductoId });
+
+            //propiedades
+            this.Property(it => it.ProformaId)
+                .HasDatabaseGeneratedOption(DatabaseGeneratedOption.None);
+            this.Property(it => it.ProductoId)
+                .HasDatabaseGeneratedOption(DatabaseGeneratedOption.None); this.Property(dp => dp.Cantidad).IsRequired();
+            this.Property(dp => dp.Precio).HasPrecision(9,2).IsRequired();
 
 
             this.ToTable("DetalleProforma");

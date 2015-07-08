@@ -8,8 +8,11 @@
     <title><%: Page.Title %> - Mi aplicación ASP.NET</title>
     <asp:PlaceHolder runat="server">     
           <%: Scripts.Render("~/bundles/modernizr") %>
-    </asp:PlaceHolder>  
+    </asp:PlaceHolder> 
+     <script src="Scripts/jquery-2.1.4.min.js"></script>
     <webopt:BundleReference runat="server" Path="~/Content/css" /> 
+    <link href="Content/bootstrap.min.css" rel="stylesheet" />
+    <link href="Content/bootstrap-theme.min.css" rel="stylesheet" />
     <link href="~/favicon.ico" rel="shortcut icon" type="image/x-icon" />
     <meta name="viewport" content="width=device-width" />
     <asp:ContentPlaceHolder runat="server" ID="HeadContent" />
@@ -41,7 +44,7 @@
         <div class="content-wrapper">
             <div class="float-left">
                 <p class="site-title">
-                    <a runat="server" href="~/">su logotipo aquí</a>
+                    <a runat="server" href="~/">Melida System</a>
                 </p>
             </div>
             <div class="float-right">
@@ -65,8 +68,12 @@
                 <nav>
                     <ul id="menu">
                         <li><a runat="server" href="~/">Inicio</a></li>
-                        <li><a runat="server" href="~/About">Acerca de</a></li>
-                        <li><a runat="server" href="~/Contact">Contacto</a></li>
+                       <%-- <li><a runat="server" href="~/About">Acerca de</a></li>
+                        <li><a runat="server" href="~/Contact">Contacto</a></li>--%>
+                        <li><a id="A1" runat="server" href="~/frmListVentas.aspx">Ventas</a></li>
+                        <li><a id="A2" runat="server" href="~/frmProforma?acc=nuevo">Proforma</a></li>
+                        <li><a id="A3" runat="server" href="~/frmListProductos.aspx">Producto</a></li>
+                        <li><a id="A4" runat="server" href="~/frmListClientes.aspx">Clientes</a></li>
                     </ul>
                 </nav>
             </div>

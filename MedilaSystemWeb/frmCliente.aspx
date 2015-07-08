@@ -14,20 +14,29 @@
                 ItemType="MedilaSystemEntities.Cliente">
                 <InsertItemTemplate>
                     <div>
-                        <div class="panel panel-default">
+                        <div class="panel panel-primary">
                             <div class="panel-heading">
                                 Registar Nuevo Cliente
                             </div>
                             <div class="panel-body">
+                                <div class="row">
                                 <div class="form-group">
-                                    <label>Tipo Cliente:</label>
-                                    <asp:TextBox ID="txtTipoC" Text="<%# BindItem.TipoCliente%>" 
+                               <label>Tipo Cliente:</label>
+                                   <asp:TextBox ID="txtTipoC" Text="<%# BindItem.TipoCliente%>" 
                                         CssClass="form-control input-sm" runat="server"/>
+                                </div>
+                                </div>
+                             <!--   <asp:DropDownList ID="ddlcliente" CssClass="form-control input-sm"  runat="server" >
+                                    <asp:ListItem>JURIDICO</asp:ListItem>
+                                    <asp:ListItem>NATURAL</asp:ListItem>
+                                     
+                                </asp:DropDownList>  -->
+                         
                                 </div>
                                  
                                 <div class="form-group">
                                     <label>Ruc/Dni:</label>
-                                    <asp:TextBox ID="txtDni" Text="<%# BindItem.Ruc_Dni%>" 
+                                    <asp:TextBox ID="txtDni" Text="<%# BindItem.RucDni%>" 
                                         CssClass="form-control input-sm" runat="server"/>
                                 </div>
                                 <div class="form-group">
@@ -75,13 +84,19 @@
                                         CssClass="form-control input-sm" Enabled="False" runat="server"/>
                                 </div>
                                 <div class="form-group">
-                                    <label>Tipo Cliente:</label>
+                                   <label>Tipo Cliente:</label>
                                     <asp:TextBox ID="txtTipoC" Text="<%# BindItem.TipoCliente%>" 
-                                        CssClass="form-control input-sm" runat="server"/>
+                                        CssClass="form-control input-sm" runat="server"/>-->
+                                </div>
+                              <!--  <asp:DropDownList ID="ddlcliente" CssClass="form-control input-sm" runat="server"  AutoPostBack="True">
+                                    <asp:ListItem>JURIDICO</asp:ListItem>
+                                    <asp:ListItem>NATURAL</asp:ListItem>
+                                </asp:DropDownList>  -->
+                         
                                 </div>
                                 <div class="form-group">
                                     <label>Ruc/Dni:</label>
-                                    <asp:TextBox ID="txtDni" Text="<%# BindItem.Ruc_Dni %>" 
+                                    <asp:TextBox ID="txtDni" Text="<%# BindItem.RucDni%>" 
                                         CssClass="form-control input-sm" Enabled="False" runat="server"/>
                                 </div>
                                 <div class="form-group">

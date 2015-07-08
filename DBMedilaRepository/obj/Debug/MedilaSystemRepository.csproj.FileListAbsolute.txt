@@ -106,3 +106,74 @@ I:\Programación_Milagros\MedilaSystem\DBMedilaRepository\bin\Debug\es\EntityFra
 I:\Programación_Milagros\MedilaSystem\DBMedilaRepository\obj\Debug\MedilaSystemRepository.csprojResolveAssemblyReference.cache
 I:\Programación_Milagros\MedilaSystem\DBMedilaRepository\obj\Debug\DBMedilaRepository.dll
 I:\Programación_Milagros\MedilaSystem\DBMedilaRepository\obj\Debug\DBMedilaRepository.pdb
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\DBMedilaRepository\bin\Debug\DBMedilaRepository.dll.config
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\DBMedilaRepository\bin\Debug\DBMedilaRepository.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\DBMedilaRepository\bin\Debug\DBMedilaRepository.pdb
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\DBMedilaRepository\bin\Debug\EntityFramework.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\DBMedilaRepository\bin\Debug\EntityFramework.SqlServer.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\DBMedilaRepository\bin\Debug\MedilaSystemEntities.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\DBMedilaRepository\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\DBMedilaRepository\bin\Debug\Microsoft.Practices.Unity.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\DBMedilaRepository\bin\Debug\MedilaSystemEntities.pdb
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\DBMedilaRepository\bin\Debug\EntityFramework.xml
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\DBMedilaRepository\bin\Debug\EntityFramework.SqlServer.xml
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\DBMedilaRepository\bin\Debug\Microsoft.Practices.Unity.xml
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\DBMedilaRepository\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\DBMedilaRepository\bin\Debug\es\EntityFramework.resources.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\DBMedilaRepository\bin\Debug\es\EntityFramework.SqlServer.resources.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\DBMedilaRepository\obj\Debug\MedilaSystemRepository.csprojResolveAssemblyReference.cache
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\DBMedilaRepository\obj\Debug\DBMedilaRepository.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\DBMedilaRepository\obj\Debug\DBMedilaRepository.pdb
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\carpeta\MedilaSystem\DBMedilaRepository\bin\Debug\DBMedilaRepository.dll.config
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\carpeta\MedilaSystem\DBMedilaRepository\bin\Debug\DBMedilaRepository.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\carpeta\MedilaSystem\DBMedilaRepository\bin\Debug\DBMedilaRepository.pdb
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\carpeta\MedilaSystem\DBMedilaRepository\bin\Debug\EntityFramework.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\carpeta\MedilaSystem\DBMedilaRepository\bin\Debug\EntityFramework.SqlServer.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\carpeta\MedilaSystem\DBMedilaRepository\bin\Debug\MedilaSystemEntities.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\carpeta\MedilaSystem\DBMedilaRepository\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\carpeta\MedilaSystem\DBMedilaRepository\bin\Debug\Microsoft.Practices.Unity.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\carpeta\MedilaSystem\DBMedilaRepository\bin\Debug\MedilaSystemEntities.pdb
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\carpeta\MedilaSystem\DBMedilaRepository\bin\Debug\EntityFramework.xml
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\carpeta\MedilaSystem\DBMedilaRepository\bin\Debug\EntityFramework.SqlServer.xml
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\carpeta\MedilaSystem\DBMedilaRepository\bin\Debug\Microsoft.Practices.Unity.xml
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\carpeta\MedilaSystem\DBMedilaRepository\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\carpeta\MedilaSystem\DBMedilaRepository\bin\Debug\es\EntityFramework.resources.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\carpeta\MedilaSystem\DBMedilaRepository\bin\Debug\es\EntityFramework.SqlServer.resources.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\carpeta\MedilaSystem\DBMedilaRepository\obj\Debug\MedilaSystemRepository.csprojResolveAssemblyReference.cache
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\carpeta\MedilaSystem\DBMedilaRepository\obj\Debug\DBMedilaRepository.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\carpeta\MedilaSystem\DBMedilaRepository\obj\Debug\DBMedilaRepository.pdb
+C:\Users\Gustavo\Desktop\MedilaSystem\DBMedilaRepository\bin\Debug\DBMedilaRepository.dll.config
+C:\Users\Gustavo\Desktop\MedilaSystem\DBMedilaRepository\bin\Debug\DBMedilaRepository.dll
+C:\Users\Gustavo\Desktop\MedilaSystem\DBMedilaRepository\bin\Debug\DBMedilaRepository.pdb
+C:\Users\Gustavo\Desktop\MedilaSystem\DBMedilaRepository\bin\Debug\EntityFramework.dll
+C:\Users\Gustavo\Desktop\MedilaSystem\DBMedilaRepository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Gustavo\Desktop\MedilaSystem\DBMedilaRepository\bin\Debug\MedilaSystemEntities.dll
+C:\Users\Gustavo\Desktop\MedilaSystem\DBMedilaRepository\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\Gustavo\Desktop\MedilaSystem\DBMedilaRepository\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Gustavo\Desktop\MedilaSystem\DBMedilaRepository\bin\Debug\MedilaSystemEntities.pdb
+C:\Users\Gustavo\Desktop\MedilaSystem\DBMedilaRepository\bin\Debug\EntityFramework.xml
+C:\Users\Gustavo\Desktop\MedilaSystem\DBMedilaRepository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Gustavo\Desktop\MedilaSystem\DBMedilaRepository\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\Gustavo\Desktop\MedilaSystem\DBMedilaRepository\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\Gustavo\Desktop\MedilaSystem\DBMedilaRepository\bin\Debug\es\EntityFramework.resources.dll
+C:\Users\Gustavo\Desktop\MedilaSystem\DBMedilaRepository\bin\Debug\es\EntityFramework.SqlServer.resources.dll
+C:\Users\Gustavo\Desktop\MedilaSystem\DBMedilaRepository\obj\Debug\MedilaSystemRepository.csprojResolveAssemblyReference.cache
+C:\Users\Gustavo\Desktop\MedilaSystem\DBMedilaRepository\obj\Debug\DBMedilaRepository.dll
+C:\Users\Gustavo\Desktop\MedilaSystem\DBMedilaRepository\obj\Debug\DBMedilaRepository.pdb
+C:\Users\SARA\Desktop\PROY_FINAL\MedilaSystem\MedilaSystem\DBMedilaRepository\bin\Debug\DBMedilaRepository.dll.config
+C:\Users\SARA\Desktop\PROY_FINAL\MedilaSystem\MedilaSystem\DBMedilaRepository\bin\Debug\DBMedilaRepository.dll
+C:\Users\SARA\Desktop\PROY_FINAL\MedilaSystem\MedilaSystem\DBMedilaRepository\bin\Debug\DBMedilaRepository.pdb
+C:\Users\SARA\Desktop\PROY_FINAL\MedilaSystem\MedilaSystem\DBMedilaRepository\bin\Debug\EntityFramework.dll
+C:\Users\SARA\Desktop\PROY_FINAL\MedilaSystem\MedilaSystem\DBMedilaRepository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\SARA\Desktop\PROY_FINAL\MedilaSystem\MedilaSystem\DBMedilaRepository\bin\Debug\MedilaSystemEntities.dll
+C:\Users\SARA\Desktop\PROY_FINAL\MedilaSystem\MedilaSystem\DBMedilaRepository\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\SARA\Desktop\PROY_FINAL\MedilaSystem\MedilaSystem\DBMedilaRepository\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\SARA\Desktop\PROY_FINAL\MedilaSystem\MedilaSystem\DBMedilaRepository\bin\Debug\MedilaSystemEntities.pdb
+C:\Users\SARA\Desktop\PROY_FINAL\MedilaSystem\MedilaSystem\DBMedilaRepository\bin\Debug\EntityFramework.xml
+C:\Users\SARA\Desktop\PROY_FINAL\MedilaSystem\MedilaSystem\DBMedilaRepository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\SARA\Desktop\PROY_FINAL\MedilaSystem\MedilaSystem\DBMedilaRepository\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\SARA\Desktop\PROY_FINAL\MedilaSystem\MedilaSystem\DBMedilaRepository\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\SARA\Desktop\PROY_FINAL\MedilaSystem\MedilaSystem\DBMedilaRepository\bin\Debug\es\EntityFramework.resources.dll
+C:\Users\SARA\Desktop\PROY_FINAL\MedilaSystem\MedilaSystem\DBMedilaRepository\bin\Debug\es\EntityFramework.SqlServer.resources.dll
+C:\Users\SARA\Desktop\PROY_FINAL\MedilaSystem\MedilaSystem\DBMedilaRepository\obj\Debug\DBMedilaRepository.dll
+C:\Users\SARA\Desktop\PROY_FINAL\MedilaSystem\MedilaSystem\DBMedilaRepository\obj\Debug\DBMedilaRepository.pdb

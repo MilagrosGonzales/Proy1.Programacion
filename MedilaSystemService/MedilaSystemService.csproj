@@ -47,12 +47,18 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Almacen\IProductoService.cs" />
+    <Compile Include="Almacen\IProveedorService.cs" />
     <Compile Include="Almacen\ProductoService.cs" />
+    <Compile Include="Almacen\ProveedorService.cs" />
     <Compile Include="Class1.cs" />
+    <Compile Include="ComprobanteService.cs" />
+    <Compile Include="IComprobanteService.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Ventas\ClienteService.cs" />
     <Compile Include="Ventas\IClienteService.cs" />
+    <Compile Include="Ventas\IProformaService.cs" />
     <Compile Include="Ventas\IVentaService.cs" />
+    <Compile Include="Ventas\ProformaService.cs" />
     <Compile Include="Ventas\VentasService.cs" />
   </ItemGroup>
   <ItemGroup>

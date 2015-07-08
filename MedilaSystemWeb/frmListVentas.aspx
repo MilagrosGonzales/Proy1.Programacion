@@ -10,7 +10,9 @@
         </div>
         <div class="panel-body">
             <table>
-                <a href="frmVenta.aspx?opc=nuevo">Nueva Venta</a>
+                
+                <a href="frmVenta.aspx?opc=nuevo"class="btn btn-success" style="margin: auto; color: #000;">
+                    Nueva Venta</a>
                 <tr>
                     <td>
                         <label>Criterio:</label>
@@ -48,9 +50,10 @@
                 <table class="table table-hover">
                     <tr>
                         <th>Fecha</th>
-                        <th>Plazos</th>
                         <th>Cliente</th>
-                        <th>Proforma</th>
+                        <th>Tipo comprobante</th>
+                         <th>Total</th>
+                        <th>Acciones</th>
                     </tr>
                     <tbody>
                         <tr id="itemPlaceholder" runat="server"/>
@@ -60,8 +63,10 @@
             <ItemTemplate>
                 <tr>
                     <td><%# Item.Fecha %></td>
-                    <td><%# Item.Plazos %></td>
-                    <td><%# Item.cliente.Nombre %></td>
+                     <td><%# Item.cliente.Nombre %><a></a><%# Item.cliente.Apellidos %></td>
+                    <td><%# Item.comprobante.TipoComprobante %></td>
+                    <td><%# Item.Total%></td>
+                    
                     
                     <td>
                         <a href="frmVenta.aspx?IdVenta=<%# Item.Id  %>&opc=editar">

@@ -16,7 +16,7 @@ namespace MedilaSystemService.Almacen
          [Dependency]
         public IProductoRepository productoRepsoitory{ get; set; }
 
-         public IEnumerable<Producto> GetAllFromProductos()
+         public List<Producto> GetAllFromProductos()
          {
              return productoRepsoitory.GetAllFromProductos();
          }
@@ -41,7 +41,7 @@ namespace MedilaSystemService.Almacen
         }
 
 
-        public IEnumerable<Producto> GetProductoByCriterio(string criterio)
+        public List<Producto> GetProductoByCriterio(string criterio)
         {
             return productoRepsoitory.GetProductoByCriterio(criterio);
         }

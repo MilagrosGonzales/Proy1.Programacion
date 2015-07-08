@@ -23,11 +23,10 @@ namespace MedilaSystemEntities
         public Int32 Id { get; set; }
         public string Nombre{ get; set; }
         public string Descripcion { get; set; }
-        public string Marca { get; set; }
         public Decimal PrecioUnitarioDeCompra { get; set; }
         public Decimal PrecioUnitarioDeVenta { get; set; }
         public Int32 ProveedorId { get; set; }
-        public string IsEstado { get; set; }
+        public bool IsEstado { get; set; }
         public Proveedor provedor { get; set; }
        
          
@@ -36,6 +35,7 @@ namespace MedilaSystemEntities
         public List<DetalleVenta> detalleventa { get; set; }
         public List<DetalleProforma> detalleproforma{ get; set; }
         public List<Proforma> proforma{ get; set; }
+        public List<Adquisicion> adquisicion { get; set; }
        
          
 

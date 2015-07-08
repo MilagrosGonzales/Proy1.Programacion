@@ -663,3 +663,443 @@ I:\Programación_Milagros\MedilaSystem\MedilaSystemWeb\bin\es\Microsoft.AspNet.F
 I:\Programación_Milagros\MedilaSystem\MedilaSystemWeb\obj\Debug\MedilaSystemWeb.csprojResolveAssemblyReference.cache
 I:\Programación_Milagros\MedilaSystem\MedilaSystemWeb\obj\Debug\MedilaSystemWeb.dll
 I:\Programación_Milagros\MedilaSystem\MedilaSystemWeb\obj\Debug\MedilaSystemWeb.pdb
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\MedilaSystemWeb\bin\MedilaSystemWeb.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\MedilaSystemWeb\bin\MedilaSystemWeb.pdb
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\MedilaSystemWeb\bin\AjaxControlToolkit.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\MedilaSystemWeb\bin\AjaxMin.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\MedilaSystemWeb\bin\Antlr3.Runtime.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\MedilaSystemWeb\bin\AspNet.ScriptManager.jQuery.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\MedilaSystemWeb\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\MedilaSystemWeb\bin\DotNetOpenAuth.AspNet.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\MedilaSystemWeb\bin\DotNetOpenAuth.Core.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\MedilaSystemWeb\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\MedilaSystemWeb\bin\DotNetOpenAuth.OAuth.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\MedilaSystemWeb\bin\DotNetOpenAuth.OpenId.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\MedilaSystemWeb\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\MedilaSystemWeb\bin\EntityFramework.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\MedilaSystemWeb\bin\EntityFramework.SqlServer.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\MedilaSystemWeb\bin\HtmlAgilityPack.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\MedilaSystemWeb\bin\MedilaSystemEntities.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\MedilaSystemWeb\bin\MedilaSystemService.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\MedilaSystemWeb\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\MedilaSystemWeb\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\MedilaSystemWeb\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\MedilaSystemWeb\bin\Microsoft.Data.Edm.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\MedilaSystemWeb\bin\Microsoft.Data.OData.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\MedilaSystemWeb\bin\Microsoft.Practices.Unity.Configuration.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\MedilaSystemWeb\bin\Microsoft.Practices.Unity.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\MedilaSystemWeb\bin\Microsoft.ScriptManager.WebForms.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\MedilaSystemWeb\bin\Microsoft.Web.Infrastructure.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\MedilaSystemWeb\bin\Microsoft.WindowsAzure.Configuration.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\MedilaSystemWeb\bin\Microsoft.WindowsAzure.Storage.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\MedilaSystemWeb\bin\System.Spatial.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\MedilaSystemWeb\bin\System.Web.Optimization.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\MedilaSystemWeb\bin\System.Web.Providers.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\MedilaSystemWeb\bin\Unity.WebForms.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\MedilaSystemWeb\bin\WebActivator.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\MedilaSystemWeb\bin\WebGrease.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\MedilaSystemWeb\bin\DBMedilaRepository.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\MedilaSystemWeb\bin\MedilaSystemEntities.pdb
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\MedilaSystemWeb\bin\MedilaSystemService.pdb
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\MedilaSystemWeb\bin\EntityFramework.xml
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\MedilaSystemWeb\bin\EntityFramework.SqlServer.xml
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\MedilaSystemWeb\bin\HtmlAgilityPack.pdb
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\MedilaSystemWeb\bin\HtmlAgilityPack.xml
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\MedilaSystemWeb\bin\Microsoft.Data.Edm.xml
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\MedilaSystemWeb\bin\Microsoft.Data.OData.xml
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\MedilaSystemWeb\bin\Microsoft.Practices.Unity.xml
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\MedilaSystemWeb\bin\Microsoft.Practices.Unity.Configuration.xml
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\MedilaSystemWeb\bin\Microsoft.WindowsAzure.Storage.pdb
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\MedilaSystemWeb\bin\Microsoft.WindowsAzure.Storage.xml
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\MedilaSystemWeb\bin\System.Spatial.xml
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\MedilaSystemWeb\bin\DotNetOpenAuth.Core.xml
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\MedilaSystemWeb\bin\DotNetOpenAuth.OAuth.xml
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\MedilaSystemWeb\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\MedilaSystemWeb\bin\DotNetOpenAuth.OpenId.xml
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\MedilaSystemWeb\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\MedilaSystemWeb\bin\DotNetOpenAuth.AspNet.xml
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\MedilaSystemWeb\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\MedilaSystemWeb\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\MedilaSystemWeb\bin\DBMedilaRepository.pdb
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\MedilaSystemWeb\bin\ar\AjaxControlToolkit.resources.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\MedilaSystemWeb\bin\cs\AjaxControlToolkit.resources.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\MedilaSystemWeb\bin\de\AjaxControlToolkit.resources.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\MedilaSystemWeb\bin\es\AjaxControlToolkit.resources.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\MedilaSystemWeb\bin\fr\AjaxControlToolkit.resources.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\MedilaSystemWeb\bin\he\AjaxControlToolkit.resources.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\MedilaSystemWeb\bin\hi\AjaxControlToolkit.resources.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\MedilaSystemWeb\bin\it\AjaxControlToolkit.resources.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\MedilaSystemWeb\bin\ja\AjaxControlToolkit.resources.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\MedilaSystemWeb\bin\ko\AjaxControlToolkit.resources.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\MedilaSystemWeb\bin\nl\AjaxControlToolkit.resources.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\MedilaSystemWeb\bin\pl\AjaxControlToolkit.resources.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\MedilaSystemWeb\bin\pt\AjaxControlToolkit.resources.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\MedilaSystemWeb\bin\ru\AjaxControlToolkit.resources.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\MedilaSystemWeb\bin\tr-TR\AjaxControlToolkit.resources.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\MedilaSystemWeb\bin\zh-CHS\AjaxControlToolkit.resources.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\MedilaSystemWeb\bin\zh-CHT\AjaxControlToolkit.resources.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\MedilaSystemWeb\bin\es\EntityFramework.resources.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\MedilaSystemWeb\bin\es\EntityFramework.SqlServer.resources.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\MedilaSystemWeb\bin\de\Microsoft.Data.Edm.resources.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\MedilaSystemWeb\bin\es\Microsoft.Data.Edm.resources.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\MedilaSystemWeb\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\MedilaSystemWeb\bin\it\Microsoft.Data.Edm.resources.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\MedilaSystemWeb\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\MedilaSystemWeb\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\MedilaSystemWeb\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\MedilaSystemWeb\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\MedilaSystemWeb\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\MedilaSystemWeb\bin\de\Microsoft.Data.OData.resources.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\MedilaSystemWeb\bin\es\Microsoft.Data.OData.resources.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\MedilaSystemWeb\bin\fr\Microsoft.Data.OData.resources.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\MedilaSystemWeb\bin\it\Microsoft.Data.OData.resources.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\MedilaSystemWeb\bin\ja\Microsoft.Data.OData.resources.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\MedilaSystemWeb\bin\ko\Microsoft.Data.OData.resources.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\MedilaSystemWeb\bin\ru\Microsoft.Data.OData.resources.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\MedilaSystemWeb\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\MedilaSystemWeb\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\MedilaSystemWeb\bin\de\System.Spatial.resources.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\MedilaSystemWeb\bin\es\System.Spatial.resources.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\MedilaSystemWeb\bin\fr\System.Spatial.resources.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\MedilaSystemWeb\bin\it\System.Spatial.resources.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\MedilaSystemWeb\bin\ja\System.Spatial.resources.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\MedilaSystemWeb\bin\ko\System.Spatial.resources.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\MedilaSystemWeb\bin\ru\System.Spatial.resources.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\MedilaSystemWeb\bin\zh-Hans\System.Spatial.resources.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\MedilaSystemWeb\bin\zh-Hant\System.Spatial.resources.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\MedilaSystemWeb\bin\es\System.Web.Optimization.resources.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\MedilaSystemWeb\bin\es\System.Web.Providers.resources.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\MedilaSystemWeb\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\MedilaSystemWeb\obj\Debug\MedilaSystemWeb.csprojResolveAssemblyReference.cache
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\MedilaSystemWeb\obj\Debug\MedilaSystemWeb.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\MedilaSystemWeb\obj\Debug\MedilaSystemWeb.pdb
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\carpeta\MedilaSystem\MedilaSystemWeb\bin\MedilaSystemWeb.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\carpeta\MedilaSystem\MedilaSystemWeb\bin\MedilaSystemWeb.pdb
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\carpeta\MedilaSystem\MedilaSystemWeb\bin\AjaxControlToolkit.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\carpeta\MedilaSystem\MedilaSystemWeb\bin\AjaxMin.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\carpeta\MedilaSystem\MedilaSystemWeb\bin\Antlr3.Runtime.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\carpeta\MedilaSystem\MedilaSystemWeb\bin\AspNet.ScriptManager.jQuery.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\carpeta\MedilaSystem\MedilaSystemWeb\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\carpeta\MedilaSystem\MedilaSystemWeb\bin\DotNetOpenAuth.AspNet.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\carpeta\MedilaSystem\MedilaSystemWeb\bin\DotNetOpenAuth.Core.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\carpeta\MedilaSystem\MedilaSystemWeb\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\carpeta\MedilaSystem\MedilaSystemWeb\bin\DotNetOpenAuth.OAuth.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\carpeta\MedilaSystem\MedilaSystemWeb\bin\DotNetOpenAuth.OpenId.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\carpeta\MedilaSystem\MedilaSystemWeb\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\carpeta\MedilaSystem\MedilaSystemWeb\bin\EntityFramework.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\carpeta\MedilaSystem\MedilaSystemWeb\bin\EntityFramework.SqlServer.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\carpeta\MedilaSystem\MedilaSystemWeb\bin\HtmlAgilityPack.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\carpeta\MedilaSystem\MedilaSystemWeb\bin\MedilaSystemEntities.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\carpeta\MedilaSystem\MedilaSystemWeb\bin\MedilaSystemService.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\carpeta\MedilaSystem\MedilaSystemWeb\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\carpeta\MedilaSystem\MedilaSystemWeb\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\carpeta\MedilaSystem\MedilaSystemWeb\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\carpeta\MedilaSystem\MedilaSystemWeb\bin\Microsoft.Data.Edm.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\carpeta\MedilaSystem\MedilaSystemWeb\bin\Microsoft.Data.OData.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\carpeta\MedilaSystem\MedilaSystemWeb\bin\Microsoft.Practices.Unity.Configuration.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\carpeta\MedilaSystem\MedilaSystemWeb\bin\Microsoft.Practices.Unity.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\carpeta\MedilaSystem\MedilaSystemWeb\bin\Microsoft.ScriptManager.WebForms.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\carpeta\MedilaSystem\MedilaSystemWeb\bin\Microsoft.Web.Infrastructure.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\carpeta\MedilaSystem\MedilaSystemWeb\bin\Microsoft.WindowsAzure.Configuration.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\carpeta\MedilaSystem\MedilaSystemWeb\bin\Microsoft.WindowsAzure.Storage.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\carpeta\MedilaSystem\MedilaSystemWeb\bin\System.Spatial.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\carpeta\MedilaSystem\MedilaSystemWeb\bin\System.Web.Optimization.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\carpeta\MedilaSystem\MedilaSystemWeb\bin\System.Web.Providers.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\carpeta\MedilaSystem\MedilaSystemWeb\bin\Unity.WebForms.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\carpeta\MedilaSystem\MedilaSystemWeb\bin\WebActivator.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\carpeta\MedilaSystem\MedilaSystemWeb\bin\WebGrease.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\carpeta\MedilaSystem\MedilaSystemWeb\bin\DBMedilaRepository.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\carpeta\MedilaSystem\MedilaSystemWeb\bin\MedilaSystemEntities.pdb
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\carpeta\MedilaSystem\MedilaSystemWeb\bin\MedilaSystemService.pdb
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\carpeta\MedilaSystem\MedilaSystemWeb\bin\EntityFramework.xml
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\carpeta\MedilaSystem\MedilaSystemWeb\bin\EntityFramework.SqlServer.xml
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\carpeta\MedilaSystem\MedilaSystemWeb\bin\HtmlAgilityPack.pdb
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\carpeta\MedilaSystem\MedilaSystemWeb\bin\HtmlAgilityPack.xml
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\carpeta\MedilaSystem\MedilaSystemWeb\bin\Microsoft.Data.Edm.xml
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\carpeta\MedilaSystem\MedilaSystemWeb\bin\Microsoft.Data.OData.xml
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\carpeta\MedilaSystem\MedilaSystemWeb\bin\Microsoft.Practices.Unity.xml
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\carpeta\MedilaSystem\MedilaSystemWeb\bin\Microsoft.Practices.Unity.Configuration.xml
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\carpeta\MedilaSystem\MedilaSystemWeb\bin\Microsoft.WindowsAzure.Storage.pdb
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\carpeta\MedilaSystem\MedilaSystemWeb\bin\Microsoft.WindowsAzure.Storage.xml
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\carpeta\MedilaSystem\MedilaSystemWeb\bin\System.Spatial.xml
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\carpeta\MedilaSystem\MedilaSystemWeb\bin\DotNetOpenAuth.Core.xml
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\carpeta\MedilaSystem\MedilaSystemWeb\bin\DotNetOpenAuth.OAuth.xml
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\carpeta\MedilaSystem\MedilaSystemWeb\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\carpeta\MedilaSystem\MedilaSystemWeb\bin\DotNetOpenAuth.OpenId.xml
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\carpeta\MedilaSystem\MedilaSystemWeb\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\carpeta\MedilaSystem\MedilaSystemWeb\bin\DotNetOpenAuth.AspNet.xml
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\carpeta\MedilaSystem\MedilaSystemWeb\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\carpeta\MedilaSystem\MedilaSystemWeb\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\carpeta\MedilaSystem\MedilaSystemWeb\bin\DBMedilaRepository.pdb
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\carpeta\MedilaSystem\MedilaSystemWeb\bin\ar\AjaxControlToolkit.resources.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\carpeta\MedilaSystem\MedilaSystemWeb\bin\cs\AjaxControlToolkit.resources.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\carpeta\MedilaSystem\MedilaSystemWeb\bin\de\AjaxControlToolkit.resources.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\carpeta\MedilaSystem\MedilaSystemWeb\bin\es\AjaxControlToolkit.resources.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\carpeta\MedilaSystem\MedilaSystemWeb\bin\fr\AjaxControlToolkit.resources.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\carpeta\MedilaSystem\MedilaSystemWeb\bin\he\AjaxControlToolkit.resources.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\carpeta\MedilaSystem\MedilaSystemWeb\bin\hi\AjaxControlToolkit.resources.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\carpeta\MedilaSystem\MedilaSystemWeb\bin\it\AjaxControlToolkit.resources.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\carpeta\MedilaSystem\MedilaSystemWeb\bin\ja\AjaxControlToolkit.resources.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\carpeta\MedilaSystem\MedilaSystemWeb\bin\ko\AjaxControlToolkit.resources.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\carpeta\MedilaSystem\MedilaSystemWeb\bin\nl\AjaxControlToolkit.resources.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\carpeta\MedilaSystem\MedilaSystemWeb\bin\pl\AjaxControlToolkit.resources.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\carpeta\MedilaSystem\MedilaSystemWeb\bin\pt\AjaxControlToolkit.resources.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\carpeta\MedilaSystem\MedilaSystemWeb\bin\ru\AjaxControlToolkit.resources.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\carpeta\MedilaSystem\MedilaSystemWeb\bin\tr-TR\AjaxControlToolkit.resources.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\carpeta\MedilaSystem\MedilaSystemWeb\bin\zh-CHS\AjaxControlToolkit.resources.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\carpeta\MedilaSystem\MedilaSystemWeb\bin\zh-CHT\AjaxControlToolkit.resources.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\carpeta\MedilaSystem\MedilaSystemWeb\bin\es\EntityFramework.resources.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\carpeta\MedilaSystem\MedilaSystemWeb\bin\es\EntityFramework.SqlServer.resources.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\carpeta\MedilaSystem\MedilaSystemWeb\bin\de\Microsoft.Data.Edm.resources.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\carpeta\MedilaSystem\MedilaSystemWeb\bin\es\Microsoft.Data.Edm.resources.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\carpeta\MedilaSystem\MedilaSystemWeb\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\carpeta\MedilaSystem\MedilaSystemWeb\bin\it\Microsoft.Data.Edm.resources.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\carpeta\MedilaSystem\MedilaSystemWeb\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\carpeta\MedilaSystem\MedilaSystemWeb\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\carpeta\MedilaSystem\MedilaSystemWeb\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\carpeta\MedilaSystem\MedilaSystemWeb\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\carpeta\MedilaSystem\MedilaSystemWeb\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\carpeta\MedilaSystem\MedilaSystemWeb\bin\de\Microsoft.Data.OData.resources.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\carpeta\MedilaSystem\MedilaSystemWeb\bin\es\Microsoft.Data.OData.resources.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\carpeta\MedilaSystem\MedilaSystemWeb\bin\fr\Microsoft.Data.OData.resources.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\carpeta\MedilaSystem\MedilaSystemWeb\bin\it\Microsoft.Data.OData.resources.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\carpeta\MedilaSystem\MedilaSystemWeb\bin\ja\Microsoft.Data.OData.resources.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\carpeta\MedilaSystem\MedilaSystemWeb\bin\ko\Microsoft.Data.OData.resources.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\carpeta\MedilaSystem\MedilaSystemWeb\bin\ru\Microsoft.Data.OData.resources.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\carpeta\MedilaSystem\MedilaSystemWeb\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\carpeta\MedilaSystem\MedilaSystemWeb\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\carpeta\MedilaSystem\MedilaSystemWeb\bin\de\System.Spatial.resources.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\carpeta\MedilaSystem\MedilaSystemWeb\bin\es\System.Spatial.resources.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\carpeta\MedilaSystem\MedilaSystemWeb\bin\fr\System.Spatial.resources.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\carpeta\MedilaSystem\MedilaSystemWeb\bin\it\System.Spatial.resources.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\carpeta\MedilaSystem\MedilaSystemWeb\bin\ja\System.Spatial.resources.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\carpeta\MedilaSystem\MedilaSystemWeb\bin\ko\System.Spatial.resources.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\carpeta\MedilaSystem\MedilaSystemWeb\bin\ru\System.Spatial.resources.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\carpeta\MedilaSystem\MedilaSystemWeb\bin\zh-Hans\System.Spatial.resources.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\carpeta\MedilaSystem\MedilaSystemWeb\bin\zh-Hant\System.Spatial.resources.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\carpeta\MedilaSystem\MedilaSystemWeb\bin\es\System.Web.Optimization.resources.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\carpeta\MedilaSystem\MedilaSystemWeb\bin\es\System.Web.Providers.resources.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\carpeta\MedilaSystem\MedilaSystemWeb\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\carpeta\MedilaSystem\MedilaSystemWeb\obj\Debug\MedilaSystemWeb.csprojResolveAssemblyReference.cache
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\carpeta\MedilaSystem\MedilaSystemWeb\obj\Debug\MedilaSystemWeb.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\carpeta\MedilaSystem\MedilaSystemWeb\obj\Debug\MedilaSystemWeb.pdb
+C:\Users\Gustavo\Desktop\MedilaSystem\MedilaSystemWeb\bin\MedilaSystemWeb.dll
+C:\Users\Gustavo\Desktop\MedilaSystem\MedilaSystemWeb\bin\MedilaSystemWeb.pdb
+C:\Users\Gustavo\Desktop\MedilaSystem\MedilaSystemWeb\bin\AjaxControlToolkit.dll
+C:\Users\Gustavo\Desktop\MedilaSystem\MedilaSystemWeb\bin\AjaxMin.dll
+C:\Users\Gustavo\Desktop\MedilaSystem\MedilaSystemWeb\bin\Antlr3.Runtime.dll
+C:\Users\Gustavo\Desktop\MedilaSystem\MedilaSystemWeb\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Gustavo\Desktop\MedilaSystem\MedilaSystemWeb\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\Gustavo\Desktop\MedilaSystem\MedilaSystemWeb\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Gustavo\Desktop\MedilaSystem\MedilaSystemWeb\bin\DotNetOpenAuth.Core.dll
+C:\Users\Gustavo\Desktop\MedilaSystem\MedilaSystemWeb\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Gustavo\Desktop\MedilaSystem\MedilaSystemWeb\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Gustavo\Desktop\MedilaSystem\MedilaSystemWeb\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Gustavo\Desktop\MedilaSystem\MedilaSystemWeb\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Gustavo\Desktop\MedilaSystem\MedilaSystemWeb\bin\EntityFramework.dll
+C:\Users\Gustavo\Desktop\MedilaSystem\MedilaSystemWeb\bin\EntityFramework.SqlServer.dll
+C:\Users\Gustavo\Desktop\MedilaSystem\MedilaSystemWeb\bin\HtmlAgilityPack.dll
+C:\Users\Gustavo\Desktop\MedilaSystem\MedilaSystemWeb\bin\MedilaSystemEntities.dll
+C:\Users\Gustavo\Desktop\MedilaSystem\MedilaSystemWeb\bin\MedilaSystemService.dll
+C:\Users\Gustavo\Desktop\MedilaSystem\MedilaSystemWeb\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Gustavo\Desktop\MedilaSystem\MedilaSystemWeb\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\Gustavo\Desktop\MedilaSystem\MedilaSystemWeb\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Gustavo\Desktop\MedilaSystem\MedilaSystemWeb\bin\Microsoft.Data.Edm.dll
+C:\Users\Gustavo\Desktop\MedilaSystem\MedilaSystemWeb\bin\Microsoft.Data.OData.dll
+C:\Users\Gustavo\Desktop\MedilaSystem\MedilaSystemWeb\bin\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\Gustavo\Desktop\MedilaSystem\MedilaSystemWeb\bin\Microsoft.Practices.Unity.dll
+C:\Users\Gustavo\Desktop\MedilaSystem\MedilaSystemWeb\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Gustavo\Desktop\MedilaSystem\MedilaSystemWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Gustavo\Desktop\MedilaSystem\MedilaSystemWeb\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\Gustavo\Desktop\MedilaSystem\MedilaSystemWeb\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Users\Gustavo\Desktop\MedilaSystem\MedilaSystemWeb\bin\System.Spatial.dll
+C:\Users\Gustavo\Desktop\MedilaSystem\MedilaSystemWeb\bin\System.Web.Optimization.dll
+C:\Users\Gustavo\Desktop\MedilaSystem\MedilaSystemWeb\bin\System.Web.Providers.dll
+C:\Users\Gustavo\Desktop\MedilaSystem\MedilaSystemWeb\bin\Unity.WebForms.dll
+C:\Users\Gustavo\Desktop\MedilaSystem\MedilaSystemWeb\bin\WebActivator.dll
+C:\Users\Gustavo\Desktop\MedilaSystem\MedilaSystemWeb\bin\WebGrease.dll
+C:\Users\Gustavo\Desktop\MedilaSystem\MedilaSystemWeb\bin\DBMedilaRepository.dll
+C:\Users\Gustavo\Desktop\MedilaSystem\MedilaSystemWeb\bin\MedilaSystemEntities.pdb
+C:\Users\Gustavo\Desktop\MedilaSystem\MedilaSystemWeb\bin\MedilaSystemService.pdb
+C:\Users\Gustavo\Desktop\MedilaSystem\MedilaSystemWeb\bin\EntityFramework.xml
+C:\Users\Gustavo\Desktop\MedilaSystem\MedilaSystemWeb\bin\EntityFramework.SqlServer.xml
+C:\Users\Gustavo\Desktop\MedilaSystem\MedilaSystemWeb\bin\HtmlAgilityPack.pdb
+C:\Users\Gustavo\Desktop\MedilaSystem\MedilaSystemWeb\bin\HtmlAgilityPack.xml
+C:\Users\Gustavo\Desktop\MedilaSystem\MedilaSystemWeb\bin\Microsoft.Data.Edm.xml
+C:\Users\Gustavo\Desktop\MedilaSystem\MedilaSystemWeb\bin\Microsoft.Data.OData.xml
+C:\Users\Gustavo\Desktop\MedilaSystem\MedilaSystemWeb\bin\Microsoft.Practices.Unity.xml
+C:\Users\Gustavo\Desktop\MedilaSystem\MedilaSystemWeb\bin\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\Gustavo\Desktop\MedilaSystem\MedilaSystemWeb\bin\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\Gustavo\Desktop\MedilaSystem\MedilaSystemWeb\bin\Microsoft.WindowsAzure.Storage.xml
+C:\Users\Gustavo\Desktop\MedilaSystem\MedilaSystemWeb\bin\System.Spatial.xml
+C:\Users\Gustavo\Desktop\MedilaSystem\MedilaSystemWeb\bin\DotNetOpenAuth.Core.xml
+C:\Users\Gustavo\Desktop\MedilaSystem\MedilaSystemWeb\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Gustavo\Desktop\MedilaSystem\MedilaSystemWeb\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Gustavo\Desktop\MedilaSystem\MedilaSystemWeb\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Gustavo\Desktop\MedilaSystem\MedilaSystemWeb\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Gustavo\Desktop\MedilaSystem\MedilaSystemWeb\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Gustavo\Desktop\MedilaSystem\MedilaSystemWeb\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+C:\Users\Gustavo\Desktop\MedilaSystem\MedilaSystemWeb\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Gustavo\Desktop\MedilaSystem\MedilaSystemWeb\bin\DBMedilaRepository.pdb
+C:\Users\Gustavo\Desktop\MedilaSystem\MedilaSystemWeb\bin\ar\AjaxControlToolkit.resources.dll
+C:\Users\Gustavo\Desktop\MedilaSystem\MedilaSystemWeb\bin\cs\AjaxControlToolkit.resources.dll
+C:\Users\Gustavo\Desktop\MedilaSystem\MedilaSystemWeb\bin\de\AjaxControlToolkit.resources.dll
+C:\Users\Gustavo\Desktop\MedilaSystem\MedilaSystemWeb\bin\es\AjaxControlToolkit.resources.dll
+C:\Users\Gustavo\Desktop\MedilaSystem\MedilaSystemWeb\bin\fr\AjaxControlToolkit.resources.dll
+C:\Users\Gustavo\Desktop\MedilaSystem\MedilaSystemWeb\bin\he\AjaxControlToolkit.resources.dll
+C:\Users\Gustavo\Desktop\MedilaSystem\MedilaSystemWeb\bin\hi\AjaxControlToolkit.resources.dll
+C:\Users\Gustavo\Desktop\MedilaSystem\MedilaSystemWeb\bin\it\AjaxControlToolkit.resources.dll
+C:\Users\Gustavo\Desktop\MedilaSystem\MedilaSystemWeb\bin\ja\AjaxControlToolkit.resources.dll
+C:\Users\Gustavo\Desktop\MedilaSystem\MedilaSystemWeb\bin\ko\AjaxControlToolkit.resources.dll
+C:\Users\Gustavo\Desktop\MedilaSystem\MedilaSystemWeb\bin\nl\AjaxControlToolkit.resources.dll
+C:\Users\Gustavo\Desktop\MedilaSystem\MedilaSystemWeb\bin\pl\AjaxControlToolkit.resources.dll
+C:\Users\Gustavo\Desktop\MedilaSystem\MedilaSystemWeb\bin\pt\AjaxControlToolkit.resources.dll
+C:\Users\Gustavo\Desktop\MedilaSystem\MedilaSystemWeb\bin\ru\AjaxControlToolkit.resources.dll
+C:\Users\Gustavo\Desktop\MedilaSystem\MedilaSystemWeb\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Users\Gustavo\Desktop\MedilaSystem\MedilaSystemWeb\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Users\Gustavo\Desktop\MedilaSystem\MedilaSystemWeb\bin\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Users\Gustavo\Desktop\MedilaSystem\MedilaSystemWeb\bin\es\EntityFramework.resources.dll
+C:\Users\Gustavo\Desktop\MedilaSystem\MedilaSystemWeb\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\Gustavo\Desktop\MedilaSystem\MedilaSystemWeb\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Gustavo\Desktop\MedilaSystem\MedilaSystemWeb\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Gustavo\Desktop\MedilaSystem\MedilaSystemWeb\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Gustavo\Desktop\MedilaSystem\MedilaSystemWeb\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Gustavo\Desktop\MedilaSystem\MedilaSystemWeb\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Gustavo\Desktop\MedilaSystem\MedilaSystemWeb\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Gustavo\Desktop\MedilaSystem\MedilaSystemWeb\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Gustavo\Desktop\MedilaSystem\MedilaSystemWeb\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Gustavo\Desktop\MedilaSystem\MedilaSystemWeb\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Gustavo\Desktop\MedilaSystem\MedilaSystemWeb\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\Gustavo\Desktop\MedilaSystem\MedilaSystemWeb\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\Gustavo\Desktop\MedilaSystem\MedilaSystemWeb\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Gustavo\Desktop\MedilaSystem\MedilaSystemWeb\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\Gustavo\Desktop\MedilaSystem\MedilaSystemWeb\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Gustavo\Desktop\MedilaSystem\MedilaSystemWeb\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Gustavo\Desktop\MedilaSystem\MedilaSystemWeb\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Gustavo\Desktop\MedilaSystem\MedilaSystemWeb\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Gustavo\Desktop\MedilaSystem\MedilaSystemWeb\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Gustavo\Desktop\MedilaSystem\MedilaSystemWeb\bin\de\System.Spatial.resources.dll
+C:\Users\Gustavo\Desktop\MedilaSystem\MedilaSystemWeb\bin\es\System.Spatial.resources.dll
+C:\Users\Gustavo\Desktop\MedilaSystem\MedilaSystemWeb\bin\fr\System.Spatial.resources.dll
+C:\Users\Gustavo\Desktop\MedilaSystem\MedilaSystemWeb\bin\it\System.Spatial.resources.dll
+C:\Users\Gustavo\Desktop\MedilaSystem\MedilaSystemWeb\bin\ja\System.Spatial.resources.dll
+C:\Users\Gustavo\Desktop\MedilaSystem\MedilaSystemWeb\bin\ko\System.Spatial.resources.dll
+C:\Users\Gustavo\Desktop\MedilaSystem\MedilaSystemWeb\bin\ru\System.Spatial.resources.dll
+C:\Users\Gustavo\Desktop\MedilaSystem\MedilaSystemWeb\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\Gustavo\Desktop\MedilaSystem\MedilaSystemWeb\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\Gustavo\Desktop\MedilaSystem\MedilaSystemWeb\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Gustavo\Desktop\MedilaSystem\MedilaSystemWeb\bin\es\System.Web.Providers.resources.dll
+C:\Users\Gustavo\Desktop\MedilaSystem\MedilaSystemWeb\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\Gustavo\Desktop\MedilaSystem\MedilaSystemWeb\obj\Debug\MedilaSystemWeb.csprojResolveAssemblyReference.cache
+C:\Users\Gustavo\Desktop\MedilaSystem\MedilaSystemWeb\obj\Debug\MedilaSystemWeb.dll
+C:\Users\Gustavo\Desktop\MedilaSystem\MedilaSystemWeb\obj\Debug\MedilaSystemWeb.pdb
+C:\Users\SARA\Desktop\PROY_FINAL\MedilaSystem\MedilaSystem\MedilaSystemWeb\bin\MedilaSystemWeb.dll
+C:\Users\SARA\Desktop\PROY_FINAL\MedilaSystem\MedilaSystem\MedilaSystemWeb\bin\MedilaSystemWeb.pdb
+C:\Users\SARA\Desktop\PROY_FINAL\MedilaSystem\MedilaSystem\MedilaSystemWeb\bin\AjaxControlToolkit.dll
+C:\Users\SARA\Desktop\PROY_FINAL\MedilaSystem\MedilaSystem\MedilaSystemWeb\bin\AjaxMin.dll
+C:\Users\SARA\Desktop\PROY_FINAL\MedilaSystem\MedilaSystem\MedilaSystemWeb\bin\Antlr3.Runtime.dll
+C:\Users\SARA\Desktop\PROY_FINAL\MedilaSystem\MedilaSystem\MedilaSystemWeb\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\SARA\Desktop\PROY_FINAL\MedilaSystem\MedilaSystem\MedilaSystemWeb\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\SARA\Desktop\PROY_FINAL\MedilaSystem\MedilaSystem\MedilaSystemWeb\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\SARA\Desktop\PROY_FINAL\MedilaSystem\MedilaSystem\MedilaSystemWeb\bin\DotNetOpenAuth.Core.dll
+C:\Users\SARA\Desktop\PROY_FINAL\MedilaSystem\MedilaSystem\MedilaSystemWeb\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\SARA\Desktop\PROY_FINAL\MedilaSystem\MedilaSystem\MedilaSystemWeb\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\SARA\Desktop\PROY_FINAL\MedilaSystem\MedilaSystem\MedilaSystemWeb\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\SARA\Desktop\PROY_FINAL\MedilaSystem\MedilaSystem\MedilaSystemWeb\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\SARA\Desktop\PROY_FINAL\MedilaSystem\MedilaSystem\MedilaSystemWeb\bin\EntityFramework.dll
+C:\Users\SARA\Desktop\PROY_FINAL\MedilaSystem\MedilaSystem\MedilaSystemWeb\bin\EntityFramework.SqlServer.dll
+C:\Users\SARA\Desktop\PROY_FINAL\MedilaSystem\MedilaSystem\MedilaSystemWeb\bin\HtmlAgilityPack.dll
+C:\Users\SARA\Desktop\PROY_FINAL\MedilaSystem\MedilaSystem\MedilaSystemWeb\bin\MedilaSystemEntities.dll
+C:\Users\SARA\Desktop\PROY_FINAL\MedilaSystem\MedilaSystem\MedilaSystemWeb\bin\MedilaSystemService.dll
+C:\Users\SARA\Desktop\PROY_FINAL\MedilaSystem\MedilaSystem\MedilaSystemWeb\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\SARA\Desktop\PROY_FINAL\MedilaSystem\MedilaSystem\MedilaSystemWeb\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\SARA\Desktop\PROY_FINAL\MedilaSystem\MedilaSystem\MedilaSystemWeb\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\SARA\Desktop\PROY_FINAL\MedilaSystem\MedilaSystem\MedilaSystemWeb\bin\Microsoft.Data.Edm.dll
+C:\Users\SARA\Desktop\PROY_FINAL\MedilaSystem\MedilaSystem\MedilaSystemWeb\bin\Microsoft.Data.OData.dll
+C:\Users\SARA\Desktop\PROY_FINAL\MedilaSystem\MedilaSystem\MedilaSystemWeb\bin\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\SARA\Desktop\PROY_FINAL\MedilaSystem\MedilaSystem\MedilaSystemWeb\bin\Microsoft.Practices.Unity.dll
+C:\Users\SARA\Desktop\PROY_FINAL\MedilaSystem\MedilaSystem\MedilaSystemWeb\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\SARA\Desktop\PROY_FINAL\MedilaSystem\MedilaSystem\MedilaSystemWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\SARA\Desktop\PROY_FINAL\MedilaSystem\MedilaSystem\MedilaSystemWeb\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\SARA\Desktop\PROY_FINAL\MedilaSystem\MedilaSystem\MedilaSystemWeb\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Users\SARA\Desktop\PROY_FINAL\MedilaSystem\MedilaSystem\MedilaSystemWeb\bin\System.Spatial.dll
+C:\Users\SARA\Desktop\PROY_FINAL\MedilaSystem\MedilaSystem\MedilaSystemWeb\bin\System.Web.Optimization.dll
+C:\Users\SARA\Desktop\PROY_FINAL\MedilaSystem\MedilaSystem\MedilaSystemWeb\bin\System.Web.Providers.dll
+C:\Users\SARA\Desktop\PROY_FINAL\MedilaSystem\MedilaSystem\MedilaSystemWeb\bin\Unity.WebForms.dll
+C:\Users\SARA\Desktop\PROY_FINAL\MedilaSystem\MedilaSystem\MedilaSystemWeb\bin\WebActivator.dll
+C:\Users\SARA\Desktop\PROY_FINAL\MedilaSystem\MedilaSystem\MedilaSystemWeb\bin\WebGrease.dll
+C:\Users\SARA\Desktop\PROY_FINAL\MedilaSystem\MedilaSystem\MedilaSystemWeb\bin\DBMedilaRepository.dll
+C:\Users\SARA\Desktop\PROY_FINAL\MedilaSystem\MedilaSystem\MedilaSystemWeb\bin\MedilaSystemEntities.pdb
+C:\Users\SARA\Desktop\PROY_FINAL\MedilaSystem\MedilaSystem\MedilaSystemWeb\bin\MedilaSystemService.pdb
+C:\Users\SARA\Desktop\PROY_FINAL\MedilaSystem\MedilaSystem\MedilaSystemWeb\bin\EntityFramework.xml
+C:\Users\SARA\Desktop\PROY_FINAL\MedilaSystem\MedilaSystem\MedilaSystemWeb\bin\EntityFramework.SqlServer.xml
+C:\Users\SARA\Desktop\PROY_FINAL\MedilaSystem\MedilaSystem\MedilaSystemWeb\bin\HtmlAgilityPack.pdb
+C:\Users\SARA\Desktop\PROY_FINAL\MedilaSystem\MedilaSystem\MedilaSystemWeb\bin\HtmlAgilityPack.xml
+C:\Users\SARA\Desktop\PROY_FINAL\MedilaSystem\MedilaSystem\MedilaSystemWeb\bin\Microsoft.Data.Edm.xml
+C:\Users\SARA\Desktop\PROY_FINAL\MedilaSystem\MedilaSystem\MedilaSystemWeb\bin\Microsoft.Data.OData.xml
+C:\Users\SARA\Desktop\PROY_FINAL\MedilaSystem\MedilaSystem\MedilaSystemWeb\bin\Microsoft.Practices.Unity.xml
+C:\Users\SARA\Desktop\PROY_FINAL\MedilaSystem\MedilaSystem\MedilaSystemWeb\bin\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\SARA\Desktop\PROY_FINAL\MedilaSystem\MedilaSystem\MedilaSystemWeb\bin\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\SARA\Desktop\PROY_FINAL\MedilaSystem\MedilaSystem\MedilaSystemWeb\bin\Microsoft.WindowsAzure.Storage.xml
+C:\Users\SARA\Desktop\PROY_FINAL\MedilaSystem\MedilaSystem\MedilaSystemWeb\bin\System.Spatial.xml
+C:\Users\SARA\Desktop\PROY_FINAL\MedilaSystem\MedilaSystem\MedilaSystemWeb\bin\DotNetOpenAuth.Core.xml
+C:\Users\SARA\Desktop\PROY_FINAL\MedilaSystem\MedilaSystem\MedilaSystemWeb\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\SARA\Desktop\PROY_FINAL\MedilaSystem\MedilaSystem\MedilaSystemWeb\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\SARA\Desktop\PROY_FINAL\MedilaSystem\MedilaSystem\MedilaSystemWeb\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\SARA\Desktop\PROY_FINAL\MedilaSystem\MedilaSystem\MedilaSystemWeb\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\SARA\Desktop\PROY_FINAL\MedilaSystem\MedilaSystem\MedilaSystemWeb\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\SARA\Desktop\PROY_FINAL\MedilaSystem\MedilaSystem\MedilaSystemWeb\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+C:\Users\SARA\Desktop\PROY_FINAL\MedilaSystem\MedilaSystem\MedilaSystemWeb\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\SARA\Desktop\PROY_FINAL\MedilaSystem\MedilaSystem\MedilaSystemWeb\bin\DBMedilaRepository.pdb
+C:\Users\SARA\Desktop\PROY_FINAL\MedilaSystem\MedilaSystem\MedilaSystemWeb\bin\ar\AjaxControlToolkit.resources.dll
+C:\Users\SARA\Desktop\PROY_FINAL\MedilaSystem\MedilaSystem\MedilaSystemWeb\bin\cs\AjaxControlToolkit.resources.dll
+C:\Users\SARA\Desktop\PROY_FINAL\MedilaSystem\MedilaSystem\MedilaSystemWeb\bin\de\AjaxControlToolkit.resources.dll
+C:\Users\SARA\Desktop\PROY_FINAL\MedilaSystem\MedilaSystem\MedilaSystemWeb\bin\es\AjaxControlToolkit.resources.dll
+C:\Users\SARA\Desktop\PROY_FINAL\MedilaSystem\MedilaSystem\MedilaSystemWeb\bin\fr\AjaxControlToolkit.resources.dll
+C:\Users\SARA\Desktop\PROY_FINAL\MedilaSystem\MedilaSystem\MedilaSystemWeb\bin\he\AjaxControlToolkit.resources.dll
+C:\Users\SARA\Desktop\PROY_FINAL\MedilaSystem\MedilaSystem\MedilaSystemWeb\bin\hi\AjaxControlToolkit.resources.dll
+C:\Users\SARA\Desktop\PROY_FINAL\MedilaSystem\MedilaSystem\MedilaSystemWeb\bin\it\AjaxControlToolkit.resources.dll
+C:\Users\SARA\Desktop\PROY_FINAL\MedilaSystem\MedilaSystem\MedilaSystemWeb\bin\ja\AjaxControlToolkit.resources.dll
+C:\Users\SARA\Desktop\PROY_FINAL\MedilaSystem\MedilaSystem\MedilaSystemWeb\bin\ko\AjaxControlToolkit.resources.dll
+C:\Users\SARA\Desktop\PROY_FINAL\MedilaSystem\MedilaSystem\MedilaSystemWeb\bin\nl\AjaxControlToolkit.resources.dll
+C:\Users\SARA\Desktop\PROY_FINAL\MedilaSystem\MedilaSystem\MedilaSystemWeb\bin\pl\AjaxControlToolkit.resources.dll
+C:\Users\SARA\Desktop\PROY_FINAL\MedilaSystem\MedilaSystem\MedilaSystemWeb\bin\pt\AjaxControlToolkit.resources.dll
+C:\Users\SARA\Desktop\PROY_FINAL\MedilaSystem\MedilaSystem\MedilaSystemWeb\bin\ru\AjaxControlToolkit.resources.dll
+C:\Users\SARA\Desktop\PROY_FINAL\MedilaSystem\MedilaSystem\MedilaSystemWeb\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Users\SARA\Desktop\PROY_FINAL\MedilaSystem\MedilaSystem\MedilaSystemWeb\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Users\SARA\Desktop\PROY_FINAL\MedilaSystem\MedilaSystem\MedilaSystemWeb\bin\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Users\SARA\Desktop\PROY_FINAL\MedilaSystem\MedilaSystem\MedilaSystemWeb\bin\es\EntityFramework.resources.dll
+C:\Users\SARA\Desktop\PROY_FINAL\MedilaSystem\MedilaSystem\MedilaSystemWeb\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\SARA\Desktop\PROY_FINAL\MedilaSystem\MedilaSystem\MedilaSystemWeb\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\SARA\Desktop\PROY_FINAL\MedilaSystem\MedilaSystem\MedilaSystemWeb\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\SARA\Desktop\PROY_FINAL\MedilaSystem\MedilaSystem\MedilaSystemWeb\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\SARA\Desktop\PROY_FINAL\MedilaSystem\MedilaSystem\MedilaSystemWeb\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\SARA\Desktop\PROY_FINAL\MedilaSystem\MedilaSystem\MedilaSystemWeb\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\SARA\Desktop\PROY_FINAL\MedilaSystem\MedilaSystem\MedilaSystemWeb\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\SARA\Desktop\PROY_FINAL\MedilaSystem\MedilaSystem\MedilaSystemWeb\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\SARA\Desktop\PROY_FINAL\MedilaSystem\MedilaSystem\MedilaSystemWeb\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\SARA\Desktop\PROY_FINAL\MedilaSystem\MedilaSystem\MedilaSystemWeb\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\SARA\Desktop\PROY_FINAL\MedilaSystem\MedilaSystem\MedilaSystemWeb\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\SARA\Desktop\PROY_FINAL\MedilaSystem\MedilaSystem\MedilaSystemWeb\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\SARA\Desktop\PROY_FINAL\MedilaSystem\MedilaSystem\MedilaSystemWeb\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\SARA\Desktop\PROY_FINAL\MedilaSystem\MedilaSystem\MedilaSystemWeb\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\SARA\Desktop\PROY_FINAL\MedilaSystem\MedilaSystem\MedilaSystemWeb\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\SARA\Desktop\PROY_FINAL\MedilaSystem\MedilaSystem\MedilaSystemWeb\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\SARA\Desktop\PROY_FINAL\MedilaSystem\MedilaSystem\MedilaSystemWeb\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\SARA\Desktop\PROY_FINAL\MedilaSystem\MedilaSystem\MedilaSystemWeb\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\SARA\Desktop\PROY_FINAL\MedilaSystem\MedilaSystem\MedilaSystemWeb\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\SARA\Desktop\PROY_FINAL\MedilaSystem\MedilaSystem\MedilaSystemWeb\bin\de\System.Spatial.resources.dll
+C:\Users\SARA\Desktop\PROY_FINAL\MedilaSystem\MedilaSystem\MedilaSystemWeb\bin\es\System.Spatial.resources.dll
+C:\Users\SARA\Desktop\PROY_FINAL\MedilaSystem\MedilaSystem\MedilaSystemWeb\bin\fr\System.Spatial.resources.dll
+C:\Users\SARA\Desktop\PROY_FINAL\MedilaSystem\MedilaSystem\MedilaSystemWeb\bin\it\System.Spatial.resources.dll
+C:\Users\SARA\Desktop\PROY_FINAL\MedilaSystem\MedilaSystem\MedilaSystemWeb\bin\ja\System.Spatial.resources.dll
+C:\Users\SARA\Desktop\PROY_FINAL\MedilaSystem\MedilaSystem\MedilaSystemWeb\bin\ko\System.Spatial.resources.dll
+C:\Users\SARA\Desktop\PROY_FINAL\MedilaSystem\MedilaSystem\MedilaSystemWeb\bin\ru\System.Spatial.resources.dll
+C:\Users\SARA\Desktop\PROY_FINAL\MedilaSystem\MedilaSystem\MedilaSystemWeb\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\SARA\Desktop\PROY_FINAL\MedilaSystem\MedilaSystem\MedilaSystemWeb\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\SARA\Desktop\PROY_FINAL\MedilaSystem\MedilaSystem\MedilaSystemWeb\bin\es\System.Web.Optimization.resources.dll
+C:\Users\SARA\Desktop\PROY_FINAL\MedilaSystem\MedilaSystem\MedilaSystemWeb\bin\es\System.Web.Providers.resources.dll
+C:\Users\SARA\Desktop\PROY_FINAL\MedilaSystem\MedilaSystem\MedilaSystemWeb\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\SARA\Desktop\PROY_FINAL\MedilaSystem\MedilaSystem\MedilaSystemWeb\obj\Debug\MedilaSystemWeb.csprojResolveAssemblyReference.cache
+C:\Users\SARA\Desktop\PROY_FINAL\MedilaSystem\MedilaSystem\MedilaSystemWeb\obj\Debug\MedilaSystemWeb.dll
+C:\Users\SARA\Desktop\PROY_FINAL\MedilaSystem\MedilaSystem\MedilaSystemWeb\obj\Debug\MedilaSystemWeb.pdb

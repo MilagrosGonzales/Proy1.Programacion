@@ -6,7 +6,7 @@
 <asp:Content ID="Content3" ContentPlaceHolderID="MainContent" runat="server">
      <div class="row">
         <div class="col-sm-6">
-            <asp:FormView ID="fvProducto" runat="server" Width="100%"
+            <asp:FormView id="fvProductos" runat="server" Width="100%"
                 DefaultMode="Edit"
                 SelectMethod="GetProducto"
                 UpdateMethod="UpdateProducto"
@@ -14,11 +14,12 @@
                 ItemType="MedilaSystemEntities.Producto">
                 <InsertItemTemplate>
                     <div>
-                        <div class="panel panel-default">
+                        <div class="panel panel-primary">
                             <div class="panel-heading">
                                 Registar Producto
                             </div>
                             <div class="panel-body">
+                                <div class="row">
                                 <div class="form-group">
                                     <label>Nombres:</label>
                                     <asp:TextBox ID="txtNombres" Text="<%# BindItem.Nombre%>" 
@@ -27,11 +28,6 @@
                                 <div class="form-group">
                                     <label>Descripcion:</label>
                                     <asp:TextBox ID="txtdescripcion" Text="<%# BindItem.Descripcion%>" 
-                                        CssClass="form-control input-sm" runat="server"/>
-                                </div>
-                                <div class="form-group">
-                                    <label>Marca:</label>
-                                    <asp:TextBox ID="txtmarca" Text="<%# BindItem.Marca%>" 
                                         CssClass="form-control input-sm" runat="server"/>
                                 </div>
                                 <div class="form-group">
@@ -44,17 +40,20 @@
                                     <asp:TextBox ID="txtprecioVenta" Text="<%# BindItem.PrecioUnitarioDeVenta%>" 
                                         CssClass="form-control input-sm" runat="server"/>
                                 </div>
-                                <div class="form-group">
+                               <div class="form-group">
                                     <label>Proveedor:</label>
-                                    <asp:TextBox ID="txtproveedor" Text="<%# BindItem.ProveedorId%>" 
-                                        CssClass="form-control input-sm" runat="server"/>
+                                      <asp:DropDownList ID="ddlproveedores" runat="server" 
+                                             SelectMethod="GetProveedor"
+                                             ItemType="MedilaSystemEntities.Proveedor"
+                                              DataTextField="NombreE"
+                                              DataValueField="Id"
+                                           SelectedValue='<%# BindItem.ProveedorId%>'/>  
+                         
                                 </div>
                                 <div class="form-group">
-                                    <label>Estado:</label>
-                                    <asp:TextBox ID="txtestado" Text="<%# BindItem.IsEstado%>" 
-                                        CssClass="form-control input-sm" runat="server"/>
+                                    <asp:CheckBox ID="chkestado" Checked="<%# BindItem.IsEstado %>" 
+                                        runat="server" Text="&nbsp; BuenEstado"/>
                                 </div>
-                              
                             </div>
                             <div class="panel-footer">
                                 <asp:Button ID="btnGuardar" CommandName="insert" CssClass="btn btn-success" Text="Guardar" runat="server"/>
@@ -91,12 +90,6 @@
                                         CssClass="form-control input-sm" runat="server"/>
                                 </div>
                                 <div class="form-group">
-                                    <label>Marca:</label>
-                                    <asp:TextBox ID="txtmarca" Text="<%# BindItem.Marca%>" 
-                                        CssClass="form-control input-sm" runat="server"/>
-                                </div>
-
-                                <div class="form-group">
                                     <label>Precio compra:</label>
                                     <asp:TextBox ID="txtprecioCompra" Text="<%# BindItem.PrecioUnitarioDeCompra %>" 
                                         CssClass="form-control input-sm" runat="server"/>
@@ -108,14 +101,18 @@
                                 </div>
                                 <div class="form-group">
                                     <label>Proveedor :</label>
-                                    <asp:TextBox ID="txtproveedor" Text="<%# BindItem.ProveedorId %>" 
-                                        CssClass="form-control input-sm" runat="server"/>
+                                    <asp:DropDownList ID="ddlproveedores" runat="server" 
+                                             SelectMethod="GetProveedor"
+                                             ItemType="MedilaSystemEntities.Proveedor"
+                                              DataTextField="NombreE"
+                                              DataValueField="Id"
+                                        SelectedValue='<%# BindItem.ProveedorId%>'/> 
                                 </div>
                                 <div class="form-group">
-                                    <label>Estado:</label>
-                                    <asp:TextBox ID="txtEstado" Text="<%# BindItem.IsEstado %>" 
-                                        CssClass="form-control input-sm" runat="server"/>
+                                    <label>Estado: </label>
+                                    <asp:CheckBox ID="chkDisponible" Checked="<%# BindItem.IsEstado%>" runat="server" />
                                 </div>
+                                
                                 
                                
                             </div>

@@ -19,10 +19,9 @@ namespace DBMedilaRepository.Mapping
             this.Property(p => p.Id).HasDatabaseGeneratedOption(DatabaseGeneratedOption.Identity);
             this.Property(p => p.Nombre).HasMaxLength(200).IsRequired();
             this.Property(p => p.Descripcion).HasMaxLength(200).IsRequired();
-            this.Property(p => p.Marca).HasMaxLength(200).IsRequired();
             this.Property(p=> p.PrecioUnitarioDeCompra).HasPrecision(18,2).IsRequired();
             this.Property(p => p.PrecioUnitarioDeVenta).HasPrecision(18,2).IsRequired();
-            this.Property(p => p.IsEstado).HasMaxLength(3).IsRequired();
+            this.Property(p => p.IsEstado).IsRequired();
 
              this.ToTable("Productos");
 

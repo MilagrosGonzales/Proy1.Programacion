@@ -17,6 +17,8 @@ namespace MedilaSystemWeb
         [Dependency]
 
         public IProductoService productoservice { get; set; }
+        [Dependency]
+        public IProveedorService proveedorservice { get; set; }
         protected void Page_Load(object sender, EventArgs e)
         {
             var accion = Request.QueryString["accion"];
@@ -24,7 +26,7 @@ namespace MedilaSystemWeb
 
             if (accion != null && accion == "nuevo")
             {
-                fvProducto.DefaultMode = FormViewMode.Insert;
+                fvProductos.DefaultMode = FormViewMode.Insert;
             }
             else if (accion != null && id != null && accion == "delete")
             {
@@ -49,16 +51,20 @@ namespace MedilaSystemWeb
         {
             if (ModelState.IsValid)
                productoservice.UpdateProducto(producto);
-
+            Response.Redirect("frmListProductos.aspx");
 
         }
 
+        public IEnumerable<Proveedor> GetProveedor()
+        {
+            return proveedorservice.GetAllFromProveedor();
+        }
 
         public void InsertProducto(Producto producto)
         {
             if (ModelState.IsValid)
                 productoservice.AddProducto(producto);
-
+            Response.Redirect("frmListProductos.aspx");
 
         }
     }

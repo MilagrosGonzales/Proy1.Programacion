@@ -13,12 +13,12 @@ namespace MedilaSystemWeb {
     public partial class fromProducto {
         
         /// <summary>
-        /// Control fvProducto.
+        /// Control fvProductos.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.FormView fvProducto;
+        protected global::System.Web.UI.WebControls.FormView fvProductos;
     }
 }

@@ -11,7 +11,7 @@
                  <h3> Productos</h3>
              </div>
                <div class="col-sm-3">                    
-                    <a href="fromProducto?accion=nuevo" class="btn btn-success" style="margin: auto; color: #ffffff;">
+                    <a href="fromProducto.aspx?accion=nuevo" class="btn btn-success" style="margin: auto; color: #000;">
                         Registrar Producto
                     </a>
                 </div>
@@ -35,10 +35,7 @@
                         <th>Id</th>
                         <th>Nombre</th>
                         <th>Descripcion</th>
-                        <th>Marca</th>
-                        <th>Precio compra</th>
                         <th>Precio venta</th>
-                        <th>Proveedor</th>
                         <th>Estado</th>
                         <th>acciones</th>
 
@@ -55,11 +52,8 @@
                 <td><%#Item.Id %> </td>
                 <td><%#Item.Nombre %></td>
                 <td><%#Item.Descripcion%></td>
-                <td><%#Item.Marca%></td>
-                <td><%#Item.PrecioUnitarioDeCompra%></td>
                 <td><%#Item.PrecioUnitarioDeVenta%></td>
-                <td><%#Item.ProveedorId%></td>
-                <td><%#Item.IsEstado%></td>
+                <td><%#Item.IsEstado? "BuenEstado": "MalEstado"%></td>
                  <td>
      
                         <a href="fromProducto.aspx?id=<%#Item.Id %>">Editar</a>

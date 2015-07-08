@@ -16,7 +16,8 @@ namespace MedilaSystemWeb
     {
         [Dependency]
         public IProductoService productoService { get; set; }
-
+        [Dependency]
+        public IProveedorService provvedorservice { get; set; }
         protected void Page_Load(object sender, EventArgs e)
         {
 

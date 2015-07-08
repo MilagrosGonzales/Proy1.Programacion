@@ -32,3 +32,28 @@ I:\Programación_Milagros\MedilaSystem\MedilaSystemEntities\bin\Debug\Microsoft.
 I:\Programación_Milagros\MedilaSystem\MedilaSystemEntities\obj\Debug\MedilaSystemEntities.csprojResolveAssemblyReference.cache
 I:\Programación_Milagros\MedilaSystem\MedilaSystemEntities\obj\Debug\MedilaSystemEntities.dll
 I:\Programación_Milagros\MedilaSystem\MedilaSystemEntities\obj\Debug\MedilaSystemEntities.pdb
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\MedilaSystemEntities\bin\Debug\MedilaSystemEntities.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\MedilaSystemEntities\bin\Debug\MedilaSystemEntities.pdb
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\MedilaSystemEntities\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\MedilaSystemEntities\bin\Debug\Microsoft.Practices.Unity.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\MedilaSystemEntities\bin\Debug\Microsoft.Practices.Unity.xml
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\MedilaSystemEntities\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\MedilaSystemEntities\obj\Debug\MedilaSystemEntities.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\MedilaSystemEntities\obj\Debug\MedilaSystemEntities.pdb
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\MedilaSystemEntities\obj\Debug\MedilaSystemEntities.csprojResolveAssemblyReference.cache
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\carpeta\MedilaSystem\MedilaSystemEntities\bin\Debug\MedilaSystemEntities.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\carpeta\MedilaSystem\MedilaSystemEntities\bin\Debug\MedilaSystemEntities.pdb
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\carpeta\MedilaSystem\MedilaSystemEntities\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\carpeta\MedilaSystem\MedilaSystemEntities\bin\Debug\Microsoft.Practices.Unity.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\carpeta\MedilaSystem\MedilaSystemEntities\bin\Debug\Microsoft.Practices.Unity.xml
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\carpeta\MedilaSystem\MedilaSystemEntities\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\carpeta\MedilaSystem\MedilaSystemEntities\obj\Debug\MedilaSystemEntities.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\carpeta\MedilaSystem\MedilaSystemEntities\obj\Debug\MedilaSystemEntities.pdb
+C:\Users\Gustavo\Desktop\MedilaSystem\MedilaSystemEntities\bin\Debug\MedilaSystemEntities.dll
+C:\Users\Gustavo\Desktop\MedilaSystem\MedilaSystemEntities\bin\Debug\MedilaSystemEntities.pdb
+C:\Users\Gustavo\Desktop\MedilaSystem\MedilaSystemEntities\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\Gustavo\Desktop\MedilaSystem\MedilaSystemEntities\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Gustavo\Desktop\MedilaSystem\MedilaSystemEntities\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\Gustavo\Desktop\MedilaSystem\MedilaSystemEntities\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\Gustavo\Desktop\MedilaSystem\MedilaSystemEntities\obj\Debug\MedilaSystemEntities.dll
+C:\Users\Gustavo\Desktop\MedilaSystem\MedilaSystemEntities\obj\Debug\MedilaSystemEntities.pdb

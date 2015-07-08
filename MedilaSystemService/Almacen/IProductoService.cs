@@ -9,8 +9,8 @@ namespace MedilaSystemService.Almacen
 {
      public interface IProductoService
     {
-        IEnumerable<Producto> GetAllFromProductos();
-        IEnumerable<Producto> GetProductoByCriterio(string criterio); 
+         List<Producto> GetAllFromProductos();
+         List<Producto> GetProductoByCriterio(string criterio); 
         Producto GetProductoById(Int32 id);
         void AddProducto(Producto producto);
         void UpdateProducto(Producto producto);

@@ -167,7 +167,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="About.aspx" />
+    <Content Include="Ventas\About.aspx" />
     <Content Include="Account\Login.aspx" />
     <Content Include="Account\Manage.aspx" />
     <Content Include="Account\OpenAuthProviders.ascx" />
@@ -238,6 +238,7 @@
     <Content Include="frmListClientes.aspx" />
     <Content Include="frmListProductos.aspx" />
     <Content Include="frmListVentas.aspx" />
+    <Content Include="frmProforma.aspx" />
     <Content Include="frmVenta.aspx" />
     <Content Include="fromProducto.aspx" />
     <Content Include="Images\accent.png" />
@@ -311,11 +312,11 @@
   <ItemGroup>
     <Compile Include="App_Start\BundleConfig.cs" />
     <Compile Include="App_Start\AuthConfig.cs" />
-    <Compile Include="About.aspx.cs">
+    <Compile Include="Ventas\About.aspx.cs">
       <DependentUpon>About.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="About.aspx.designer.cs">
+    <Compile Include="Ventas\About.aspx.designer.cs">
       <DependentUpon>About.aspx</DependentUpon>
     </Compile>
     <Compile Include="Account\Login.aspx.cs">
@@ -397,6 +398,13 @@
     <Compile Include="frmListVentas.aspx.designer.cs">
       <DependentUpon>frmListVentas.aspx</DependentUpon>
     </Compile>
+    <Compile Include="frmProforma.aspx.cs">
+      <DependentUpon>frmProforma.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="frmProforma.aspx.designer.cs">
+      <DependentUpon>frmProforma.aspx</DependentUpon>
+    </Compile>
     <Compile Include="frmVenta.aspx.cs">
       <DependentUpon>frmVenta.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -441,7 +449,6 @@
     <Folder Include="Almacen\" />
     <Folder Include="App_Data\" />
     <Folder Include="Gerencia\" />
-    <Folder Include="Ventas\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Account\Web.config" />

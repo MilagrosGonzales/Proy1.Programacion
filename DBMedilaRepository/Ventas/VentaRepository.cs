@@ -13,7 +13,7 @@ namespace DBMedilaRepository.Ventas
         {
             //obtengo todos los pedidos
             var query = from p in _context.Ventas
-                        .Include("Cliente")
+                        .Include("Cliente").Include("Comprobante")
                         //.Include("Proveedor")
                         select p;
 
@@ -57,7 +57,7 @@ namespace DBMedilaRepository.Ventas
             // newVenta.Cliente = venta.Cliente;
             newVenta.Fecha = venta.Fecha;
             newVenta.Total = venta.Total;
-            
+            newVenta.ComprobateId = venta.ComprobateId;
             //newVenta.TipoDocumento = venta.TipoDocumento;
             
             foreach (var item in venta.detalleVenta)

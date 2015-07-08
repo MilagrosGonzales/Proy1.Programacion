@@ -27,10 +27,7 @@ namespace DBMedilaRepository.Mapping
                       .HasForeignKey(prof => prof.ClienteId)
                       .WillCascadeOnDelete(false);
 
-             this.HasRequired(prof => prof.producto)
-                       .WithMany(p => p.proforma)
-                       .HasForeignKey(prof => prof.ProductoId)
-                       .WillCascadeOnDelete(false);
+            
             
         }
     }

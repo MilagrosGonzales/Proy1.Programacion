@@ -15,6 +15,8 @@ namespace DBMedilaRepository.Ventas
         void AddCliente(Cliente cliente);
         void UpdateCliente(Cliente cliente);
         void DeleteCliente(Int32 id);
+        Cliente GetClienteByRucAndDni(String dni);
+
 
         Cliente GetClientebyDni(Int32 dni);
     }

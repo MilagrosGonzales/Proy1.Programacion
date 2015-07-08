@@ -10,9 +10,9 @@ namespace DBMedilaRepository.Almacen
 {
     public class ProductoRepository:MasterRepository,IProductoRepository
     {
-        public IEnumerable<Producto> GetAllFromProductos()
+        public List<Producto> GetAllFromProductos()
         {
-            return _context.Productos.AsEnumerable();
+            return _context.Productos.AsEnumerable().ToList();
         }
 
         public Producto GetProductoById(int id)
@@ -45,7 +45,7 @@ namespace DBMedilaRepository.Almacen
         }
 
 
-        public IEnumerable<Producto> GetProductoByCriterio(string criterio)
+        public List<Producto> GetProductoByCriterio(string criterio)
         {
             var query = from r in _context.Productos
                         select r;
@@ -58,7 +58,7 @@ namespace DBMedilaRepository.Almacen
             }
 
 
-            return query;
+            return query.ToList();
         }
     }
 }

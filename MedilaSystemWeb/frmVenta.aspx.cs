@@ -5,6 +5,7 @@ using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
 using MedilaSystemEntities;
+using MedilaSystemService;
 using Microsoft.Practices.Unity;
 using MedilaSystemService.Ventas;
 using MedilaSystemService.Almacen;
@@ -21,6 +22,9 @@ namespace MedilaSystemWeb
         public IClienteService clienteService { get; set; }
         [Dependency]
         public IProductoService ProductoService { get; set; }
+        [Dependency]
+        public IComprobanteService comproService { get; set; }
+        
 
         protected void Page_Load(object sender, EventArgs e)
         {
@@ -87,9 +91,16 @@ namespace MedilaSystemWeb
             return Cache.Get(KEYVENTA) as Venta;
         }
 
-        public IEnumerable<Producto> GetProductos([Control("txtCriterio")] string criterio)
+        public IQueryable<Producto> GetProductos([Control("txtCriterio")] string criterio)
         {
-            return ProductoService.GetProductoByCriterio(criterio);
+            return ProductoService.GetProductoByCriterio(criterio).AsQueryable();
+        }
+
+        public void LoadData()
+        {
+            var criterio = txtCliente.Text;
+
+            ProductoService.GetProductoByCriterio(criterio);
         }
 
         protected void lvProductos_ItemCommand(object sender, ListViewCommandEventArgs e)
@@ -181,6 +192,11 @@ namespace MedilaSystemWeb
             }
         }
 
+        public IEnumerable<Comprobante> GetComprobantes()
+        {
+            return comproService.GetAllFromComprobante();
+        }
+
         protected void btnGuardar_Click(object sender, EventArgs e)
         {
             var venta = GetVenta();
@@ -204,7 +220,7 @@ namespace MedilaSystemWeb
 
 
 
-                        
+                        venta.ComprobateId = Int32.Parse(cbTipoComprobante.SelectedValue);
                         VentaService.AddVenta(venta);
                         ScriptManager.RegisterClientScriptBlock(this, this.GetType(), "alertMessage", "alert('VENTA Registrada..!!')", true);
                         Response.Redirect("frmListVentas.aspx");
@@ -220,7 +236,7 @@ namespace MedilaSystemWeb
                     }
                     else
                     {
-                        
+                        venta.ComprobateId = Int32.Parse(cbTipoComprobante.SelectedValue);
                         VentaService.UpdateVenta(venta);
                         ScriptManager.
                             RegisterClientScriptBlock(this,
@@ -229,6 +245,11 @@ namespace MedilaSystemWeb
                     }
                 }
             }
+        }
+
+        protected void btnBuscar_Click(object sender, EventArgs e)
+        {
+            LoadData();
         }
 
     }

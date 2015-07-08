@@ -54,11 +54,14 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Almacen\IProductoRepository.cs" />
+    <Compile Include="Almacen\IProoveedorRepository.cs" />
     <Compile Include="Almacen\ProductoRepository.cs" />
+    <Compile Include="Almacen\ProveedorRepository.cs" />
+    <Compile Include="ComprobanteRepository.cs" />
+    <Compile Include="IComprobanteRepository.cs" />
     <Compile Include="Mapping\AdquisicionMap.cs" />
     <Compile Include="Mapping\ClienteMap.cs" />
-    <Compile Include="Mapping\ComprobanteBMap.cs" />
-    <Compile Include="Mapping\ComprobanteFMap.cs" />
+    <Compile Include="Mapping\ComprobanteMap.cs" />
     <Compile Include="Mapping\DetalleAdquisicionMap.cs" />
     <Compile Include="Mapping\DetalleDevolucionMap.cs" />
     <Compile Include="Mapping\DetalleProformaMap.cs" />
@@ -69,11 +72,13 @@
     <Compile Include="Mapping\ProveedorMap.cs" />
     <Compile Include="Mapping\VentaMap.cs" />
     <Compile Include="DBMedilaSystemContext.cs" />
-    <Compile Include="MasterRepository.cs" />
+    <Compile Include="Mapping\MasterRepository.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Ventas\ClienteRepository.cs" />
     <Compile Include="Ventas\IClienteRepository.cs" />
+    <Compile Include="Ventas\IProformaRepository.cs" />
     <Compile Include="Ventas\IVentaRepository.cs" />
+    <Compile Include="Ventas\ProformaRepository.cs" />
     <Compile Include="Ventas\VentaRepository.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -87,7 +92,7 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Gerencia\" />
+    <Folder Include="SQL\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

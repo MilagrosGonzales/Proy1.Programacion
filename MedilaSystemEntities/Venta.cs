@@ -13,8 +13,8 @@ namespace MedilaSystemEntities
        {
           
            this.detalleVenta = new List<DetalleVenta>();
-           this.comprobanteB = new List<ComprobanteB>();
-           this.comprobanteF = new List<ComprobanteF>();
+           
+       
         
         }
         public Int32 Id { get; set; }
@@ -27,10 +27,11 @@ namespace MedilaSystemEntities
         public Int32 clienteId { get; set; }
         public Cliente cliente  { get; set; }
 
+        public Int32 ComprobateId { get; set; }
+        public Comprobante comprobante { get; set; }
 
         public List<DetalleVenta>detalleVenta { get; set; }
-        public List<ComprobanteB> comprobanteB { get; set; }
-        public List<ComprobanteF> comprobanteF { get; set; }
+       
     
        
 

@@ -44,6 +44,10 @@ namespace DBMedilaRepository.Mapping
                       .WithMany(c=>c.Venta)
                       .HasForeignKey(v => v. clienteId)
                       .WillCascadeOnDelete(false);
+           this.HasRequired(v =>  v.comprobante)
+                     .WithMany(com => com.venta)
+                     .HasForeignKey(v => v.ComprobateId)
+                     .WillCascadeOnDelete(false);
        }
     }
 }

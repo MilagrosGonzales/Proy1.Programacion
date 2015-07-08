@@ -32,6 +32,7 @@ namespace MedilaSystemWeb
                 var idcliente = Int32.Parse(id);
 
                 clienteservice.DeleteCliente(idcliente);
+                
 
 
                 Response.Redirect("frmListClientes.aspx");
@@ -50,7 +51,7 @@ namespace MedilaSystemWeb
         {
             if (ModelState.IsValid)
                clienteservice.UpdateCliente(cliente);
-
+            Response.Redirect("frmListClientes.aspx");
 
         }
 
@@ -61,10 +62,12 @@ namespace MedilaSystemWeb
 
             if (ModelState.IsValid)
                 clienteservice.AddCliente(cliente);
+            Response.Redirect("frmListClientes.aspx");
 
 
         }
 
+        
            
     }
 }

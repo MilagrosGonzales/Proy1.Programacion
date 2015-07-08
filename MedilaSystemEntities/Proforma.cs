@@ -20,8 +20,8 @@ namespace MedilaSystemEntities
         public DateTime Fecha { get; set; }
         public Int32 ClienteId { get; set; }
         public Cliente cliente { get; set; }
-        public Int32 ProductoId{ get; set; }
-        public Producto producto{ get; set; }
+        
+        
         public Decimal total { get; set; }
    
         

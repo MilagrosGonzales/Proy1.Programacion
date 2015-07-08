@@ -77,5 +77,15 @@ namespace DBMedilaRepository.Ventas
 
             return query.SingleOrDefault();
         }
+
+
+        public Cliente GetClienteByRucAndDni(string dni)
+        {
+            var query = from c in _context.Clientes
+                       where c.RucDni.Equals(dni)
+                       select c;
+
+            return query.SingleOrDefault();
+        }
     }
 }

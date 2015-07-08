@@ -6,7 +6,7 @@
 <asp:Content ID="Content3" ContentPlaceHolderID="MainContent" runat="server">
     <div class="panel panel-primary">
         <div class="panel-heading">
-            Registrar Venta
+            <h1>Registrar Venta</h1>
         </div>
         <div class="panel panel-body">
             <div class="row">
@@ -14,11 +14,22 @@
                     <asp:HiddenField ID="hfIdVenta" runat="server"/>
                     <table class="table table-bordered">
                         <tr>
-                            <td><b>DNI:</b></td>
+                            <td><b>DNI/Ruc:</b></td>
                             <td>
                                 <asp:TextBox ID="txtDni" Width="200px" runat="server"/>
                                 <asp:Button ID="txtBuscarClienteDNI" Text="..." CssClass="btn btn-default" runat="server" OnClick="txtBuscarClienteDNI_Click"/>
                                 <b><asp:Label ID="lblMensajeCliente" ForeColor="red"  runat="server"/></b>
+                            </td>
+                            <td>Comprobante</td>
+                            <td>
+                                <asp:DropDownList ID="cbTipoComprobante" 
+                                   CssClass="form-control input-sm"
+                                                    
+                                                    ItemType="MedilaSystemEntities.Comprobante"
+                                                    DataTextField="TipoComprobante"
+                                                    DataValueField="Id"
+                                                    runat="server"
+                                                    SelectMethod="GetComprobantes"/>
                             </td>
                             
                         </tr>
@@ -48,17 +59,18 @@
                         </tr>
                         <tr>
                             <td colspan="4">
+                                <h2>Productos</h2>
                                 <label>Criterio</label>
                                 <asp:TextBox ID="txtCriterio" runat="server"/>
-                                <asp:Button ID="btnBuscar" Text="Buscar" CssClass="btn btn-danger" runat="server"/>
-                                <h3>Productos:</h3><br />
+                                <asp:Button ID="btnBuscar" Text="Buscar" CssClass="btn btn-danger" runat="server" OnClick="btnBuscar_Click"/>                                
                                 <asp:UpdatePanel ID="upProductos" runat="server">
                                     <ContentTemplate>
-                                        <asp:ListView ID="lvProductos" runat="server"
+                                        <asp:ListView ID="lvProductos" runat="server" SelectMethod="GetProductos"
                                             ItemType="MedilaSystemEntities.Producto"
-                                            SelectMethod="GetProductos" OnItemCommand="lvProductos_ItemCommand">
+                                             OnItemCommand="lvProductos_ItemCommand">
                                             <LayoutTemplate>
                                                 <table class="table table-hover">
+                                                    
                                                     <thead>
                                                         <th>Descripcion</th>
                                                         <th>Precio</th>
@@ -68,6 +80,18 @@
                                                         <tr id="itemPlaceholder" runat="server"/>
                                                     </tbody>
                                                 </table>
+                                                <asp:DataPager runat="server" PagedControlID="lvProductos" PageSize="1" ID="dpProductos">
+                                                    <Fields>
+                                                        <asp:NextPreviousPagerField
+                                                            ButtonType="Link"
+												            ShowFirstPageButton="False"
+												            ShowLastPageButton="False"
+												            ShowNextPageButton="False"
+												            ShowPreviousPageButton="False"
+                                                            
+                                                            />
+                                                    </Fields>
+                                                </asp:DataPager>
                                             </LayoutTemplate>
                                             <ItemTemplate>
                                                 <tr>

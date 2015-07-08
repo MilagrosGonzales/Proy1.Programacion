@@ -17,5 +17,7 @@ namespace MedilaSystemService.Ventas
         void DeleteCliente(Int32 id);
 
         Cliente GetClientebyDni(Int32 dni);
+        Cliente GetClienteByRucAndDni(String dni);
+   
     }
 }

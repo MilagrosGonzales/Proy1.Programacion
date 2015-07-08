@@ -11,7 +11,7 @@
                  <h3> CLIENTE</h3>
              </div>
                <div class="col-sm-3">                    
-                    <a href="frmCliente?accion=nuevo" class="btn btn-success" style="margin: auto; color: #ffffff;">
+                    <a href="frmCliente?accion=nuevo" class="btn btn-success" style="margin: auto; color: #000;">
                         Registrar Cliente
                     </a>
                 </div>
@@ -51,7 +51,7 @@
         <ItemTemplate>
             <tr>
                 <td><%#Item.Id %> </td>
-                <td><%#Item.Ruc_Dni %></td>
+                <td><%#Item.RucDni %></td>
                 <td><%#Item.Nombre%></td>
                 <td><%#Item.Apellidos%></td>
                 <td><%#Item.Telefono%></td>

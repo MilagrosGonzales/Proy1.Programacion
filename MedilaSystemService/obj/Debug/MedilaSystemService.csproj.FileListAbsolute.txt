@@ -94,3 +94,67 @@ I:\Programación_Milagros\MedilaSystem\MedilaSystemService\bin\Debug\es\EntityFr
 I:\Programación_Milagros\MedilaSystem\MedilaSystemService\obj\Debug\MedilaSystemService.csprojResolveAssemblyReference.cache
 I:\Programación_Milagros\MedilaSystem\MedilaSystemService\obj\Debug\MedilaSystemService.dll
 I:\Programación_Milagros\MedilaSystem\MedilaSystemService\obj\Debug\MedilaSystemService.pdb
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\MedilaSystemService\bin\Debug\MedilaSystemService.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\MedilaSystemService\bin\Debug\MedilaSystemService.pdb
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\MedilaSystemService\bin\Debug\DBMedilaRepository.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\MedilaSystemService\bin\Debug\MedilaSystemEntities.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\MedilaSystemService\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\MedilaSystemService\bin\Debug\Microsoft.Practices.Unity.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\MedilaSystemService\bin\Debug\EntityFramework.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\MedilaSystemService\bin\Debug\DBMedilaRepository.pdb
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\MedilaSystemService\bin\Debug\MedilaSystemEntities.pdb
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\MedilaSystemService\bin\Debug\Microsoft.Practices.Unity.xml
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\MedilaSystemService\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\MedilaSystemService\bin\Debug\EntityFramework.xml
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\MedilaSystemService\bin\Debug\es\EntityFramework.resources.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\MedilaSystemService\obj\Debug\MedilaSystemService.csprojResolveAssemblyReference.cache
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\MedilaSystemService\obj\Debug\MedilaSystemService.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\MedilaSystem\MedilaSystemService\obj\Debug\MedilaSystemService.pdb
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\carpeta\MedilaSystem\MedilaSystemService\bin\Debug\MedilaSystemService.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\carpeta\MedilaSystem\MedilaSystemService\bin\Debug\MedilaSystemService.pdb
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\carpeta\MedilaSystem\MedilaSystemService\bin\Debug\DBMedilaRepository.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\carpeta\MedilaSystem\MedilaSystemService\bin\Debug\MedilaSystemEntities.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\carpeta\MedilaSystem\MedilaSystemService\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\carpeta\MedilaSystem\MedilaSystemService\bin\Debug\Microsoft.Practices.Unity.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\carpeta\MedilaSystem\MedilaSystemService\bin\Debug\EntityFramework.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\carpeta\MedilaSystem\MedilaSystemService\bin\Debug\DBMedilaRepository.pdb
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\carpeta\MedilaSystem\MedilaSystemService\bin\Debug\MedilaSystemEntities.pdb
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\carpeta\MedilaSystem\MedilaSystemService\bin\Debug\Microsoft.Practices.Unity.xml
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\carpeta\MedilaSystem\MedilaSystemService\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\carpeta\MedilaSystem\MedilaSystemService\bin\Debug\EntityFramework.xml
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\carpeta\MedilaSystem\MedilaSystemService\bin\Debug\es\EntityFramework.resources.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\carpeta\MedilaSystem\MedilaSystemService\obj\Debug\MedilaSystemService.csprojResolveAssemblyReference.cache
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\carpeta\MedilaSystem\MedilaSystemService\obj\Debug\MedilaSystemService.dll
+D:\2015\Clases 2015-1\Proy 1\Programación_Milagros\carpeta\MedilaSystem\MedilaSystemService\obj\Debug\MedilaSystemService.pdb
+C:\Users\Gustavo\Desktop\MedilaSystem\MedilaSystemService\bin\Debug\MedilaSystemService.dll
+C:\Users\Gustavo\Desktop\MedilaSystem\MedilaSystemService\bin\Debug\MedilaSystemService.pdb
+C:\Users\Gustavo\Desktop\MedilaSystem\MedilaSystemService\bin\Debug\DBMedilaRepository.dll
+C:\Users\Gustavo\Desktop\MedilaSystem\MedilaSystemService\bin\Debug\MedilaSystemEntities.dll
+C:\Users\Gustavo\Desktop\MedilaSystem\MedilaSystemService\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\Gustavo\Desktop\MedilaSystem\MedilaSystemService\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Gustavo\Desktop\MedilaSystem\MedilaSystemService\bin\Debug\EntityFramework.dll
+C:\Users\Gustavo\Desktop\MedilaSystem\MedilaSystemService\bin\Debug\DBMedilaRepository.pdb
+C:\Users\Gustavo\Desktop\MedilaSystem\MedilaSystemService\bin\Debug\MedilaSystemEntities.pdb
+C:\Users\Gustavo\Desktop\MedilaSystem\MedilaSystemService\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\Gustavo\Desktop\MedilaSystem\MedilaSystemService\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\Gustavo\Desktop\MedilaSystem\MedilaSystemService\bin\Debug\EntityFramework.xml
+C:\Users\Gustavo\Desktop\MedilaSystem\MedilaSystemService\bin\Debug\es\EntityFramework.resources.dll
+C:\Users\Gustavo\Desktop\MedilaSystem\MedilaSystemService\obj\Debug\MedilaSystemService.csprojResolveAssemblyReference.cache
+C:\Users\Gustavo\Desktop\MedilaSystem\MedilaSystemService\obj\Debug\MedilaSystemService.dll
+C:\Users\Gustavo\Desktop\MedilaSystem\MedilaSystemService\obj\Debug\MedilaSystemService.pdb
+C:\Users\SARA\Desktop\PROY_FINAL\MedilaSystem\MedilaSystem\MedilaSystemService\bin\Debug\MedilaSystemService.dll
+C:\Users\SARA\Desktop\PROY_FINAL\MedilaSystem\MedilaSystem\MedilaSystemService\bin\Debug\MedilaSystemService.pdb
+C:\Users\SARA\Desktop\PROY_FINAL\MedilaSystem\MedilaSystem\MedilaSystemService\bin\Debug\DBMedilaRepository.dll
+C:\Users\SARA\Desktop\PROY_FINAL\MedilaSystem\MedilaSystem\MedilaSystemService\bin\Debug\MedilaSystemEntities.dll
+C:\Users\SARA\Desktop\PROY_FINAL\MedilaSystem\MedilaSystem\MedilaSystemService\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\SARA\Desktop\PROY_FINAL\MedilaSystem\MedilaSystem\MedilaSystemService\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\SARA\Desktop\PROY_FINAL\MedilaSystem\MedilaSystem\MedilaSystemService\bin\Debug\EntityFramework.dll
+C:\Users\SARA\Desktop\PROY_FINAL\MedilaSystem\MedilaSystem\MedilaSystemService\bin\Debug\DBMedilaRepository.pdb
+C:\Users\SARA\Desktop\PROY_FINAL\MedilaSystem\MedilaSystem\MedilaSystemService\bin\Debug\MedilaSystemEntities.pdb
+C:\Users\SARA\Desktop\PROY_FINAL\MedilaSystem\MedilaSystem\MedilaSystemService\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\SARA\Desktop\PROY_FINAL\MedilaSystem\MedilaSystem\MedilaSystemService\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\SARA\Desktop\PROY_FINAL\MedilaSystem\MedilaSystem\MedilaSystemService\bin\Debug\EntityFramework.xml
+C:\Users\SARA\Desktop\PROY_FINAL\MedilaSystem\MedilaSystem\MedilaSystemService\bin\Debug\es\EntityFramework.resources.dll
+C:\Users\SARA\Desktop\PROY_FINAL\MedilaSystem\MedilaSystem\MedilaSystemService\obj\Debug\MedilaSystemService.csprojResolveAssemblyReference.cache
+C:\Users\SARA\Desktop\PROY_FINAL\MedilaSystem\MedilaSystem\MedilaSystemService\obj\Debug\MedilaSystemService.dll
+C:\Users\SARA\Desktop\PROY_FINAL\MedilaSystem\MedilaSystem\MedilaSystemService\obj\Debug\MedilaSystemService.pdb

@@ -49,5 +49,11 @@ namespace MedilaSystemService.Ventas
         {
             return _clienteRepository.GetClientebyDni(dni);
         }
+
+
+        public Cliente GetClienteByRucAndDni(string dni)
+        {
+            return _clienteRepository.GetClienteByRucAndDni(dni);
+        }
     }
 }
